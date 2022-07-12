@@ -12,13 +12,6 @@ markdown_extensions:
 - pymdownx.details
 - pymdownx.superfences
 
-#theme:
-#    name: readthedocs
-#    highlightjs: true
-#    hljs_languages:
-#        - yaml
-#        - rust
-
 extra_css:
     - 'extra.css'
 
