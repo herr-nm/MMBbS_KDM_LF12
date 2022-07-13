@@ -11,35 +11,30 @@ In diesem Kapitel finden Sie ...
 
 ## Zielformulierung und Inhalte
 
-
-
----
-
 ### Didaktischer Wizard
 
-Sie finden den didaktischen Wizard der MMBbS unter folgendem Link: [https://didakt.mm-bbs.de](https://didakt.mm-bbs.de)
+- Sie finden die didaktische Planung der MMBbS im [Didaktischen Wizard](https://didakt.mm-bbs.de).
+- Die Lernsituationen sind auch direkt unter [GitHub - (Herr-NM)](https://herr-nm.github.io/KIT-Curriculum) abrufbar.
 
-
-
----
-
-### Weitere Informationen
+### Inhalt der Lernsituationen
 
 Die Lernsituationen der Lernfelder werden aus den Lernfeldbeschreibungen des jeweiligen Rahmenlehrplans abgeleitet. Dazu dient in diesem Bildungsgang der Rahmenlehrplan der Kaufleute für Digitalisierungsmanagement (KDM).
 
 Im Lernfeld 12 haben die KDM auf das Berufsbild spezialisierte Inhalte.
 
----
+| Nr. | Lernsituation | Unterrichtsstunden |
+| :--- | :--- | :--- |
+| LS 12.1 | Geschäftsmodelle und Vertriebswege analysieren | 12 |
+| LS 12.2 | Marktanalysen durchführen | |
+| LS 12.3 | Unternehmen und ihre Geschäftsmodelle quantitativ auswerten | |
+| LS 12.4 | Geschäftsprozesse und -modelle weiterentwickeln | |
+| LS 12.5 | Digitale Produkte managen | |
 
 ## Bewertungshinweise
-
----
 
 ### Informationsmaterial M|0.0: Mitarbeit - mehr als "mündlich"?!
 
 ![Mindmap Mitarbeit](bilder/kap_00_m_00_mitarbeit.PNG)
-
----
 
 ### Informationsmaterial M|0.1: Zusammensetzung der Note im Lernfeld 12
 
@@ -75,7 +70,4 @@ Dieser Moodle-Kurs kann als interaktives Lehrbuch verstanden werden. Dazu gibt e
 - Am Ende eines Kapitels finden Sie ggf. weitere *Tipps und Tricks*, welche Ihnen Anstöße zum weiteren Lernen liefern sollen. Manchmal sind dies Hinweise auf Lernvideos, zusätzliche Artikel usw. Wie die Übungen auch, sind Tipps und Tricks nicht Bestandteil der Benotung und damit vollkommen freiwillig.
 - Das Kapitel mit den *Projektideen zur freiwilligen Bearbeitung* ist wie der Name es schon vermuten lässt ebenfalls zusätzliches Material, das zum Lernfeld passt und nicht benotet wird.
 
----
-
-***Multi Media Berufsbildende Schulen***  
-*Ansprechpartner zum Kurs: neumann@mmbbs.de*
+!!!info "Lizenz<br><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Der KDM LF12 Kurs</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://herr-nm.github.io/KDM-LF12/" property="cc:attributionName" rel="cc:attributionURL">André Neumann</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>. Fragen, Hinweise etc. an neumann@mmbbs.de."

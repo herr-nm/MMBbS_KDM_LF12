@@ -20,8 +20,12 @@ use_directory_urls: false
 repo_url: https://github.com/herr-nm/KDM-LF12.git
 
 nav:
-    - Einleitung zum LF12: 'index.md'
+    - Informationen zur Kurslizenz: 'index.md'
     - Kapitel 00 - Organisatorisches: 'kapitel_00.md'
-    - Kapitel 01 - Modellunternehmen: 'kapitel_01.md'
-    - Kapitel 02 - Unternehmen analysieren: 'kapitel_02.md'
+    - Kapitel 01 - Geschäftsmodelle und Vertriebswege analysieren: 'kapitel_01.md'
+    - Kapitel 02 - Marktanalysen durchführen: 'kapitel_02.md'
+    - Kapitel 03 - Unternehmen und ihre Geschäftsmodelle quantitativ auswerten: 'kapitel_03.md'
+    - Kapitel 04 - Geschäftsprozesse und -modelle weiterentwickeln: 'kapitel_04.md'
+    - Kapitel 05 - Digitale Produkte managen: 'kapitel_05.md'
+    
 
