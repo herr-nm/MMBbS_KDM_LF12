@@ -12,7 +12,7 @@ In diesem Kapitel ...
 
 Die ChangeIT GmbH möchte das Angebot für seine Kunden zukünftig umfassender gestalten und hat eine kleine Unternehmensberatung als Abteilung eingekauft. Sie nehmen die Rolle zwischen Informationstechnologie und der Gestaltung von Geschäftsmodellen sowie -prozessen in einer neu geschaffenen Stelle ein.
 
-Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der Analyse des Kunden "Fitness 365 GmbH & Co. KG" und seiner Geschäftsfelder auseinander.
+Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der Analyse des Kunden "Fitness 365 GmbH" und seiner Geschäftsfelder auseinander.
 
 ![thomasbaumann840 / pixabay / Fitnessstudiofläche](bilder/kap_01_fitnessstudio.jpg)
 
@@ -20,7 +20,7 @@ Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der 
 
 ## Kompetenz 1.0: Problemsituation analysieren
 
-Die Fitness 365 GmbH & Co. KG ist ein Familienunternehmen, welches im vergangenen Jahr durch die Tochter vom Gründer übernommen wurde. Als neue Geschäftsführerin hat Frau Schmidt in einer Projektmappe zusammengefasst, wie der aktuelle Stand des Unternehmens ist. Sie sollen sich mithilfe der Zusammenfassung einen Überblick verschaffen.
+Die Fitness 365 GmbH ist ein Familienunternehmen, welches im vergangenen Jahr durch die Tochter vom Gründer übernommen wurde. Als neue Geschäftsführerin hat Frau Schmidt in einer Projektmappe zusammengefasst, wie der aktuelle Stand des Unternehmens ist. Sie sollen sich mithilfe der Zusammenfassung einen Überblick verschaffen.
 
 ---
 
@@ -43,11 +43,12 @@ es freut mich, dass Sie nun neben der IT-Ausstattung auch den Zweig einer Untern
     - Die Niederlassungen in Lehrte und Sehnde sind etwas außerhalb der Zentren und mit dem ÖPNV nicht erreichbar.
 - An jedem Standort haben wir jeweils eine Person als Niederlassungsleitung. Diese wird durch 3 Trainer:innen in zwei Schichten unterstützt. 
 - Unsere Kunden kommen zu den Öffnungszeiten (i.d.R. zwischen 10:00 und 20:00 Uhr) für ihr Training in die Studios. 
-- Unregelmäßig bieten wir auch einzelne Kurse in den Gymnasik-Räumen an.
+- Unregelmäßig bieten wir auch einzelne Kurse in den Gymnastik-Räumen an.
 - Wir haben ca. 150 Kundenverträge je Niederlassung, welche mit einem Beitrag von 35,00 EUR je Monat und einer Vertragslaufzeit von einem Jahr laufen.
 - Von den Kundenverträgen haben wir ca. 50%, die sehr regelmäßig zum Training kommen, 30% unregelmäßig Trainierende sowie 20%, die inaktiv sind, aber noch zahlen. Über die letzten Jahre hat auch ohne Corona-Effekte die Mitgliederanzahl abgenommen. Corona hat uns dann fast zur Geschäftsaufgabe gezwungen.
-- Gutscheine, die wir für Neukunden / Schnuppertage für 10,00  EUR pro Trainingswoche anbieten umfassen eine 70% Realisierung, aber auch 30% No-Shows.
+- Gutscheine, die wir für Neukunden / Schnuppertage für 10,00  EUR pro Trainingswoche anbieten - und wir via Tageszeitung bewerben - umfassen eine 70% Realisierung, aber auch 30% No-Shows.
 - Unsere Geräte sind bereits gut 10 Jahre alt und werden bei defekt durch einen externen Service-Mitarbeiter repariert. Wir haben das Feedback einiger Kunden, dass diese sich neuere Modelle wünschen, die mit Smartwatches etc. koppelbar sind.
+- Ein Marketingkonzept gibt es in diesem Sinne nicht, wir schalten unregelmäßig in der Tageszeitung Werbung.
 - Kooperationen oder Partnerschaften haben wir nicht.
 
 Ich würde gerne vieles modernisieren und habe mir auch schon erste Gedanken gemacht. Es fällt mir allerdings schwer, einen Anfang zu finden. Auch die Abstimmung der einzelnen Maßnahmen traue ich mir alleine nicht zu. Ich habe eine große Verantwortung für meine Mitarbeiter:innen und möchte keine voreiligen Änderungen vornehmen.
