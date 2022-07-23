@@ -1,4 +1,4 @@
-<!--intro-start-->
+<!--include-start-->
 ## Zielformulierung und Inhalte
 
 ### Didaktischer Wizard
@@ -22,4 +22,4 @@ Im Lernfeld 12 haben die KDM auf das Berufsbild spezialisierte Inhalte.
 | LS 12.3 | Unternehmen und ihre Geschäftsmodelle quantitativ auswerten | |
 | LS 12.4 | Geschäftsprozesse und -modelle weiterentwickeln | |
 | LS 12.5 | Digitale Produkte managen | |
-<!--intro-ende-->
+<!--include-end-->
