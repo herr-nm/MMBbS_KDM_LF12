@@ -1,8 +1,6 @@
 <!--include-start-->
 ### Informationsmaterial M|0.1: Aufbau des Moodle-Kurses
 
-### Informationsmaterial M|0.2: Aufbau des Moodle-Kurses
-
 - Dieser Kurs ist in verschiedene Kapitel aufgeteilt. Die Kapitel haben fortlaufende Nummerierungen.
 - Innerhalb eines Kapitels finden Sie Arbeitsaufträge, Informationsmaterialien und vieles mehr. Diese Aktivitäten haben eine im Kapitel fortlaufende Nummer, sodass jede Aktivität direkt angesprochen werden kann.
   - **Arbeitsaufträge:** Die Aufgabe `A|2.3` kann vom Typ (`A|` = Arbeitsauftrag) und der Nummer (`2.` für Kapitel 2 und `3` für den dritten Arbeitsauftrag des Kapitels) zugeordnet werden.

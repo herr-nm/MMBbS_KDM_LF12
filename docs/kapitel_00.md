@@ -16,11 +16,15 @@ In diesem Kapitel finden Sie ...
    end="<!--include-end-->"
 %}
 
+---
+
 {%
    include-markdown "inhalte/kapitel_00/kap_00_H0.1_Bewertungshinweise.md"
    start="<!--include-start-->"
    end="<!--include-end-->"
 %}
+
+---
 
 {%
    include-markdown "inhalte/kapitel_00/kap_00_M0.0_Mitarbeit.md"
@@ -28,17 +32,23 @@ In diesem Kapitel finden Sie ...
    end="<!--include-end-->"
 %}
 
+---
+
 {%
    include-markdown "inhalte/kapitel_00/kap_00_H0.2_Aufbau_Moodlekurs.md"
    start="<!--include-start-->"
    end="<!--include-end-->"
 %}
 
+---
+
 {%
    include-markdown "inhalte/kapitel_00/kap_00_M0.1_Aufbau_Moodlekurs.md"
    start="<!--include-start-->"
    end="<!--include-end-->"
 %}
+
+---
 
 {%
    include-markdown "inhalte/lizenzhinweis.md"
