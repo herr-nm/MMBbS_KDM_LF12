@@ -59,6 +59,14 @@ In diesem Kapitel finden Sie ...
 ---
 
 {%
+   include-markdown "inhalte/kapitel_01/kapitel_01_M1.1_BMC.md"
+   start="<!--include-start-->"
+   end="<!--include-end-->"
+%}
+
+---
+
+{%
    include-markdown "inhalte/kapitel_01/kapitel_01_M1.2_ToolTipp_drawio.md"
    start="<!--include-start-->"
    end="<!--include-end-->"
