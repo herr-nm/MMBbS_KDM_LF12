@@ -8,16 +8,21 @@ theme:
   logo: bilder/logo.png
 
 markdown_extensions:
-- admonition
-- pymdownx.details
-- pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - include-markdown 
 
 extra_css:
-    - 'extra.css'
+  - 'extra.css'
 
 use_directory_urls: false
 
 repo_url: https://github.com/herr-nm/KDM-LF12.git
+
+site_url: https://herr-nm.github.io/KDM-LF12/
 
 nav:
     - Informationen zur Kurslizenz: 'index.md'
