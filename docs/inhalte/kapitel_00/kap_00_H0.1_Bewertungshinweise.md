@@ -1,17 +1,9 @@
+<!--intro-start-->
 ## Bewertungshinweise
 
-### Informationsmaterial M|0.0: Mitarbeit - mehr als "mündlich"?!
+Die Bewertung im Lernfeld 12 ergibt sich aus drei Säulen:
 
-![Mindmap Mitarbeit](bilder/kap_00_m_00_mitarbeit.PNG)
-
-### Informationsmaterial M|0.1: Zusammensetzung der Note im Lernfeld 12
-
-#### Zusammensetzung
-
-
-
-#### Lernstandsbezogene Leistungsfeststellungen
-
-
-
-#### Lernprozessbegleitende Leistungsfeststellungen
+| Lernstandsbezogene Leistungsfeststellungen | Lernprozessbegleitende Leistungsfeststellungen | Mitarbeit |
+| :--- | :--- | :--- |
+| Eine Klassenarbeit `KA|1` ca. in Block 4, die zu 50% in die Note zählt. | - Ein Test `T|1` zum Business Canvas Model.<br>- Ein Test `T|2` zur Durchführung von Markanalysen.<br>- Ein Test `T|3` zur quantitativen Auswertung von Unternehmen.<br>- Ein Test `T|4` zu Geschäftsprozessen und -modellen. | Die Mitarbeitsnote ergibt sich aus verschiedenen Faktoren (s. `M|0.0`). |
+<!--intro-ende-->

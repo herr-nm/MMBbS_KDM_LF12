@@ -4,8 +4,9 @@
 
 In diesem Kapitel finden Sie ...
 
-- ... Zielformulierungen im Lernfeld 12.
-- ... Bewertungshinweise sowie Organisatorisches.
+- ... Zielformulierungen im Lernfeld 12,
+- ... Bewertungshinweise sowie
+- ... Organisatorisches zum Unterricht.
 
 ---
 
