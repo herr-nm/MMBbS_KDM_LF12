@@ -23,6 +23,24 @@ In diesem Kapitel finden Sie ...
 %}
 
 {%
+   include-markdown "inhalte/kapitel_00/kap_00_M0.0_Mitarbeit.md"
+   start="<!--intro-start-->"
+   end="<!--intro-ende-->"
+%}
+
+{%
+   include-markdown "inhalte/kapitel_00/kap_00_H0.2_Aufbau_Moodlekurs.md"
+   start="<!--intro-start-->"
+   end="<!--intro-ende-->"
+%}
+
+{%
+   include-markdown "inhalte/kapitel_00/kap_00_M0.1_Aufbau_Moodlekurs.md"
+   start="<!--intro-start-->"
+   end="<!--intro-ende-->"
+%}
+
+{%
    include-markdown "inhalte/lizenzhinweis.md"
    start="<!--intro-start-->"
    end="<!--intro-ende-->"
