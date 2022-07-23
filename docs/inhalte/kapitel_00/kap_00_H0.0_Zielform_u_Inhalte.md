@@ -7,6 +7,8 @@
 - Die Lernsituationen sind auch direkt unter [GitHub - (Herr-NM)](https://herr-nm.github.io/KIT-Curriculum) abrufbar.
 - Dieser Moodle-Kurs ist als MkDocs-Seite unter [GitHub.io - (Herr-NM)](https://herr-nm.github.io/KDM-LF12) frei einsehbar.
 
+<br>
+
 ### Inhalt der Lernsituationen
 
 Die Lernsituationen der Lernfelder werden aus den Lernfeldbeschreibungen des jeweiligen Rahmenlehrplans abgeleitet. Dazu dient in diesem Bildungsgang der Rahmenlehrplan der Kaufleute für Digitalisierungsmanagement (KDM).
