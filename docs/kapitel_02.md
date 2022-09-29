@@ -108,7 +108,6 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 ![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.2_swot_netflix.png)
 
-
 *Quelle: Derr, T.; Georg, S. & Heiler, C. (2021). Die disruptive Innovation durch Streamingdienste. Eine strategische Analyse der Marktführer Netflix und Spotify*
 
 ---
@@ -122,15 +121,6 @@ Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitne
 ### Arbeitsauftrag A|2.2: SWOT-Analyse der Fitness 365 GmbH
 
 Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch.
-
----
-
-### Informationsmaterial M|2.3: 
-
----
-
-
-
 
 ---
 
