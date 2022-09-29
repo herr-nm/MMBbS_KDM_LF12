@@ -104,7 +104,11 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 ### Informationsmaterial M|2.2: SWOT-Analysen von Spotify und Netflix
 
+#### SWOT-Analyse von Spotify
+
 ![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.2_swot_spotify.png)
+
+#### SWOT-Analyse von Netflix
 
 ![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.2_swot_netflix.png)
 
