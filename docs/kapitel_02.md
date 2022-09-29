@@ -14,9 +14,9 @@ Der Kunde "Fitness 365 GmbH" hat sich nach der Präsentation des Business Model 
 
 ---
 
-## Kompetenz 2.0: Strategische Analysen durchführen
+## Kompetenz 2.1: Strategische Analysen durchführen
 
-Bevor Sie sich mit den eigentlich strategischen Analysen auseinandersetzen, machen Sie ein Brainstorming zu den Möglichkeiten, die der Kunde mit seiner Weiterentwicklung in ein neues Produkt oder Geschäftsmodell nutzen könnte. Anschließend informieren Sie sich über die Analyse eines Unternehmens und seines Marktes.
+Bevor Sie sich mit den eigentlich strategischen Analysen auseinandersetzen, machen Sie ein Brainstorming zu den Möglichkeiten, die der Kunde mit seiner Weiterentwicklung in ein neues Produkt oder Geschäftsmodell nutzen könnte. Anschließend informieren Sie sich über die Analyse eines Unternehmens und seines Marktes und führen diese an dem Kunden durch.
 
 ---
 
@@ -80,6 +80,7 @@ Nachdem das eigentliche Brainstorming, also die Ideenfindung abgeschlossen ist, 
 
 ### Arbeitsauftrag A|2.1: Strategische Analysen erarbeiten
 
+Erarbeiten Sie sich mithilfe des LinkedIn-Learning-Kurses im Informationsmaterial die strategischen Analysen. Haben Sie dabei den Kunden "Fitness 365 GmbH" vor Augen. Beantworten Sie die Kapiteltests und laden Sie als Aktivitätsnachweis das PDF-Zertifikat in dieser Aufgabe hoch.
 
 ---
 
@@ -88,6 +89,48 @@ Nachdem das eigentliche Brainstorming, also die Ideenfindung abgeschlossen ist, 
 ![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.1_linkedin_stratanaly.png)
 
 [Link zum Kurs](https://www.linkedin.com/learning/strategische-analysen-grundlagen/aussagekraftige-analysen-fur-zielgerichtetes-unternehmerisches-handeln)
+
+---
+
+### Arbeitsauftrag A|2.2: SWOT-Analysen lesen
+
+Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kennengelernt. Da Sie sich noch weiter in dieses Werkzeug einarbeiten wollen, recherchieren Sie zuvor angelegte SWOT-Analysen aus dem Umfeld der digitalen Geschäftsmodelle. Dabei haben Sie eine Analyse von Netflix und Spotify gefunden, an deren Beispiel Sie die Erstellung betrachten wollen.
+
+1. Lesen Sie sich die Analyse aus dem Informationsmaterial durch.
+2. Vergleichen Sie die beiden Unternehmen mithilfe der Ergebnisse.
+3. Was fällt Ihnen auf? Gibt es bei einem der beiden Unternehmen auffällige Aspekte, die Sie für relevant für deren zukünftige Entwicklung halten? Welche wären dies? 
+
+---
+
+### Informationsmaterial M|2.2: SWOT-Analysen von Spotify und Netflix
+
+![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.2_swot_spotify.png)
+
+![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.2_swot_netflix.png)
+
+
+*Quelle: Derr, T.; Georg, S. & Heiler, C. (2021). Die disruptive Innovation durch Streamingdienste. Eine strategische Analyse der Marktführer Netflix und Spotify*
+
+---
+
+## Kompetenz 2.1: SWOT-Analysen durchführen
+
+Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitness 365 GmbH" gemacht. Für eine zielgerichtete Beratung müssen Sie interne Stärken und Schwächen sowie von außen bedingende Chancen und Risiken beachten. Deshalb soll eine SWOT-Analyse die weitere Beratung unterstützen.
+
+---
+
+### Arbeitsauftrag A|2.2: SWOT-Analyse der Fitness 365 GmbH
+
+Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch.
+
+---
+
+### Informationsmaterial M|2.3: 
+
+---
+
+
+
 
 ---
 
