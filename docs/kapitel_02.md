@@ -118,7 +118,7 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 ## Kompetenz 2.1: SWOT-Analysen durchführen
 
-Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitness 365 GmbH" gemacht. Für eine zielgerichtete Beratung müssen Sie interne Stärken und Schwächen sowie von außen bedingende Chancen und Risiken beachten. Deshalb soll eine SWOT-Analyse die weitere Beratung unterstützen.
+Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitness 365 GmbH" gemacht. Für eine zielgerichtete Beratung müssen Sie interne Stärken und Schwächen sowie von außen bedingende Chann und Risiken beachten. Deshalb soll eine SWOT-Analyse die weitere Beratung unterstützen.
 
 ---
 
@@ -127,7 +127,6 @@ Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitne
 Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch.
 
 ---
-
 {%
    include-markdown "inhalte/lizenzhinweis.md"
    start="<!--include-start-->"
