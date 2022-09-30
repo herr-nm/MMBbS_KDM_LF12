@@ -121,7 +121,13 @@ Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitne
 
 ### Arbeitsauftrag A|2.2: SWOT-Analyse der Fitness 365 GmbH
 
-Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch.
+Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch. Beachten Sie Brancheninformationen aus der Fitness- / Sport-Branche.
+
+---
+
+### Informationsmaterial M|2.3: Fitnessbranche
+
+![Statista - Fitnessbranche Umsatz  und Mitglieder](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.3_statista_fitness_umsatz.jpeg)
 
 ---
 
