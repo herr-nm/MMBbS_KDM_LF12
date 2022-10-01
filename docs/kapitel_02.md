@@ -125,9 +125,16 @@ Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihre
 
 ---
 
-### Informationsmaterial M|2.3: Fitnessbranche
+### Informationsmaterial M|2.3: Fitnessbranche verliert durch Corona Milliarden
+
+*von René Bocksch, 06.04.2022*
+
+Deutschland ist laut Expert:innen einer der wichtigsten Fitnessmärkte Europas. Wie der Blick auf die Kennzahlen der Branche eindrucksvoll zeigt, sind die Umsätze bis 2019 kontinuierlich gewachsen – genauso wie die Zahl der Mitglieder in den Fitnessstudios. Allerdings hat die Corona-Pandemie deutliche Spuren hinterlassen. In den vergangenen zwei Pandemie-Jahren ist der deutschlandweite Umsatz laut DSSV um rund 1,91 Milliarden Euro gesunken, zudem haben etwa 1,51 Millionen Menschen ihre Mitgliedschaft bei einem der zahlreichen Fitnessstudios hierzulande gekündigt. Hinzukommen schätzungsweise 890.000 stillgelegte Abonnements. Dauerhafte Schließungen bedeuten das aus für viele Fitnesscenter – besonders diese, die nicht Teil einer großen Kette haben sich in den letzten Jahren nur mit Solidaritäts-Abos und Corona-Hilfen über Wasser halten können.
 
 ![Statista - Fitnessbranche Umsatz  und Mitglieder](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.3_statista_fitness_umsatz.jpeg)
+
+*Quelle: Bocksch, R. (2022). Fitnessbranche verliert durch Corona Milliarden. URL:
+https://de.statista.com/infografik/13485/kennzahlen-zur-fitnessbranche-in-deutschland/ [Stand: 01.10.2022].*
 
 ---
 
