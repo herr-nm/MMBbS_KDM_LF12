@@ -121,7 +121,7 @@ Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitne
 
 ### Arbeitsauftrag A|2.2: SWOT-Analyse der Fitness 365 GmbH
 
-Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch. Beachten Sie Brancheninformationen aus der Fitness- / Sport-Branche.
+Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch. Beachten Sie die Brancheninformationen aus der Fitness- / Sport-Branche im Kurs.
 
 ---
 
@@ -131,10 +131,42 @@ Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihre
 
 Deutschland ist laut Expert:innen einer der wichtigsten Fitnessmärkte Europas. Wie der Blick auf die Kennzahlen der Branche eindrucksvoll zeigt, sind die Umsätze bis 2019 kontinuierlich gewachsen – genauso wie die Zahl der Mitglieder in den Fitnessstudios. Allerdings hat die Corona-Pandemie deutliche Spuren hinterlassen. In den vergangenen zwei Pandemie-Jahren ist der deutschlandweite Umsatz laut DSSV um rund 1,91 Milliarden Euro gesunken, zudem haben etwa 1,51 Millionen Menschen ihre Mitgliedschaft bei einem der zahlreichen Fitnessstudios hierzulande gekündigt. Hinzukommen schätzungsweise 890.000 stillgelegte Abonnements. Dauerhafte Schließungen bedeuten das aus für viele Fitnesscenter – besonders diese, die nicht Teil einer großen Kette haben sich in den letzten Jahren nur mit Solidaritäts-Abos und Corona-Hilfen über Wasser halten können.
 
-![Statista - Fitnessbranche Umsatz  und Mitglieder](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.3_statista_fitness_umsatz.jpeg)
+![Statista - Fitnessbranche Umsatz und Mitglieder](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.3_statista_fitness_umsatz.jpeg)
 
-*Quelle: Bocksch, R. (2022). Fitnessbranche verliert durch Corona Milliarden. URL:
-https://de.statista.com/infografik/13485/kennzahlen-zur-fitnessbranche-in-deutschland/ [Stand: 01.10.2022].*
+*Quelle: Bocksch, R. (2022). Fitnessbranche verliert durch Corona Milliarden. [Link](
+https://de.statista.com/infografik/13485/kennzahlen-zur-fitnessbranche-in-deutschland/) [Stand: 01.10.2022].*
+
+---
+
+### Informationsmaterial M|2.4: Einfluss der digitalen Transformation auf die Fitnessbranche
+
+#### Vergleich der Online- und Offline-Fitnessangebote
+
+Digitale Fitnessanbieter bieten keine neuen Trainingsmethoden an, sondern geben Empfehlungen, wie trainiert werden kann. Die Angebote basieren auf der „alten“ Telegymnastik. Es werden thematisch sortierte Fitnessvideos zur Verfügung gestellt, in denen eine Person die Übungen vormacht und erläutert. Im Vordergrund stehen dabei Übungen ohne Geräte mit dem eigenen Körpergewicht. Die Übungen werden dem Nutzer individuell oder in Form eines Kursangebots zur Verfügung gestellt. Um aus einer Auswahl von vorgefertigten Trainingsplänen den passendsten herauszufiltern, ist die Angabe einiger persönlicher Daten erforderlich. Darunter fallen unter anderem Trainingsziel, Gewicht, Geschlecht, Alter, Fitnesszustand. Zu den Zielen gehören beispielsweise Muskelaufbau, Stärke, Körperkraft, Ausdauer oder Gewichtsverlust. Anhand dieser Angaben werden dem Nutzer ausgewählte Fitnessinhalte für das Training gezielter Körperpartien zur Verfügung gestellt. Ähnlich wie in den klassischen Fitnessstudios erhält der Nutzer einen Trainingsplan. Bei den Online-Anbietern wird der individuelle Trainingsplan immer wieder anhand von Algorithmen neu berechnet bzw. erstellt. Das Angebot an Fitness-Apps ist facettenreich und bedient unterschiedliche Bedürfnisse über Kraft-, Ausdauersport, Ernährungsratgeber bis hin zu Senioren-Trainings oder Schwangerschaftskursen.
+
+Ähnlich zu klassischen Fitnessstudios variieren auch die Online-Angebote in Bezug auf Qualität und Benutzerfreundlichkeit. Hier gibt es vor allem Unterschiede bei der Aufmachung, Ausrichtung und Qualität des Inhalts, speziell der Videos. Dabei sind der visuelle Background, die Kompetenz und Sympathie des Trainers, die Bildauflösung sowie die Musikuntermalung entscheidende Faktoren. Der Großteil der Videos wird nicht zum Download bereitgestellt, sondern ist zugriffsbeschränkt. Durch den Login auf der Online-Plattform bzw. in der App ist das Streamen der Trainingsvideos möglich. Daher empfiehlt sich bei der Nutzung entweder WLAN-Zugriff oder eine schnelle Internetverbindung. In erster Linie ermöglichen die Online-Anbieter die Erfassung und Dokumentation erbrachter Leistungen. Darüber hinaus spielt bei den digitalen Angeboten die größere Flexibilität des Fitnesstrainings hinsichtlich Zeit und Ort eine entscheidende Rolle. Mit den Online-Anwendungen kann der Fitnesstreibende ortsungebunden trainieren, was die Unabhängigkeit erhöht. Bei dieser Nutzung kann der Trainierende weniger Wert auf das äußerliche Erscheinungsbild legen, ohne dass er sich durch andere gestört fühlt. Die Nutzung von Online-Anbietern bedeutet aber nicht, dass die Fitnesstreibenden auf eine unterstützende Community verzichten müssen. Die digitalen Anbieter unterstützen den Austausch mit anderen Mitgliedern und bieten Möglichkeiten an, Leistungen zu vergleichen oder online zu posten. Manche Anbieter ermöglichen sogar das Treffen zum gemeinsamen Sporttreiben. Darüber hinaus verfügen die digitalen Anbieter über ein weiteres Alleinstellungsmerkmal: die Motivation der Kunden. Durch virtuelle Belohnungssysteme wie zum Beispiel durch Trophäen oder Pokale, Fortschrittskurven, Kalorienverbrauchs-Tracking und Motivations-Mails spornen die Online-Anbieter ihre Kunden zum nachhaltigen Trainieren an.
+
+Klassische Fitnessstudios heben sich vor allem durch die Bereitstellung von Cardiound Kraftgeräten sowie Freihanteln und Stretching-Bereichen deutlich von den digitalen Angeboten ab. Neben dem räumlichen Ambiente und dem Angebot an Trainingsgeräten, differenzieren sie sich durch persönliche Betreuung von Fitnesstrainern und dem Angebot eines Wellenbereiches inklusiver Saunen, Dampfbädern, Ruheräumen und Solarien deutlich von den digitalen Anbietern. Auch bei der Kostenstruktur gibt es Unterschiede. Viele Anbieter von Fitness-Apps verlangen nur einmalige Kosten für den Download, andere hingegen bieten sowohl den Download also auch die Verwendung der App kostenlos an. Bei wieder anderen Anbietern ist zwar der Download kostenlos, allerdings stehen bei der Nutzung der App nur eingeschränkte Trainingsprogramme zur Verfügung. Mit optionaler Buchung eines Abos werden zusätzliche Funktionen z.B. die Erstellung eines individuellen Trainingsplans und ein erweitertes Trainingsangebot freigeschalten. Außerdem gibt es bei der Pay-Version meist Werbefreiheit während der Nutzung. Das Abonnement kann über sogenannte „In-App-Käufe“ oder auf der Website des Anbieters erworben werden. Für Online-Fitnessstudios wird wie auch bei klassischen Fitessanbietern ein monatlicher Mitgliedsbeitrag verlangt, der im Gegensatz dazu deutlich günstiger ist.
+
+#### Szenarien für die zukünftige Entwicklung der Fitnessbranche durch die Digitalisierung
+
+Abgeleitet aus den bisherigen Analysen ergeben sich folgende drei Szenarien für die zukünftige Entwicklung der Fitnessbranche (Günther et al 2016):
+
+- Online-Angebote als Zusatznische
+- Digitalisierung als Treiber neuer Segmentdefinitionen
+- Neue Branchengrenzen durch disruptive Geschäftsmodelle
+
+Im ersten Szenario wird davon ausgegangen, dass sich die Online-Angebote als zusätzliche Nische neben den bestehenden Segmenten von Discount-, Medium-, Premium- und Special-Interest-Anbietern in der Fitnessbranche positionieren. Dies bedeutet, dass nach dem aktuellen „Hype“ um digitale Fitnessangebote schließlich ein Rückgang erfolgen wird. Trotz des Zusammenspiels zwischen Online- und Offline-Angeboten wird in diesem Fall das stationäre Fitnessstudio weiterhin das größte Marktsegment bilden. Dies schließt weitere Konsolidierungen nicht aus. Online-Features werden im traditionellen Fitnessstudio dennoch nur vereinzelt und ergänzend integriert sein (Günther et al 2016).
+
+Das zweite Szenario geht von einem wesentlich größeren Einfluss der Digitalisierung auf die Fitnessbranche aus. Die gesamte Branche wird durch Online-Angebote grundlegend verändert und traditionelle Fitnessstudios bleiben ohne entsprechende Anpassung langfristig nicht wettbewerbsfähig. In diesem Fall werden die bestehenden Kernkompetenzen der klassischen Fitnessstudios durch Angebote im digitalen Bereich ersetzt. Die Fitness-Apps und Online-Fitnessstudios etablieren sich folglich als Wettbewerber am Markt. Dies wird schließlich zu einer Umstrukturierung der Marktsegmente führen. Anstatt die Geschäftsmodelle auf eine Zielgruppe zu beschränken, haben Online-Anbieter die Möglichkeit, zielgruppenspezifischer und individueller zu agieren.
+
+Daraus können sich auch zahlreiche Kombinationen aus Online- und Offline-Angeboten entwickeln. Die beschriebenen Übernahmen und Zusammenschlüsse und das derzeitige Entstehen von Online-Plattformen, die ihren Mitgliedern den Zugang zu unterschiedlichen stationären Fitnessanbietern ermöglichen, untermauern dieses Szenario.
+
+Im dritten Szenario werden die klassischen Fitnessstudios nahezu vollständig durch digitale Wettbewerber vom Markt verdrängt und verlieren somit komplett an Bedeutung und Wettbewerbsfähigkeit. Vielmehr rücken mediale Angebote und digitale Kernkompetenzen in den Mittelpunkt der Fitnessbranche. Digitale Anbieter werden die Marktführerschaft übernehmen und den Gesamtmarkt bedienen. Mitglieder der klassischen Fitnessstudios sind dann als Akquisitionsziele der Online-Anbieter zu sehen. Erste Anzeichen dafür stellt zum Beispiel ProSiebenSat.1 dar. Das Medienunternehmen will mit der 2015 gegründeten Firma 7NXT Health ein Fitness-Imperium formen und bietet seinen Mitgliedern facettenreiche Videokurse an, die fit machen, beim Abnehmen unterstützen oder einem beispielsweise das Boxen erlernen. Die Coaching Programme unterscheiden sich aufgrund ihrer Ausrichtung und der detailliert definierten Zielgruppen. Die Botschaft wird durch den Einsatz von Testimonials wie der Sportlerin Maria Höfl-Riesch oder dem Motivationstrainer Cristian Galvez verstärkt.
+
+Damit reagiert das Unternehmen auf den Megatrend zur digitalen Fitness und wirkt disruptiv auf die bisherige Fitnessbranche. Die Plattform bietet außerdem z.B. ein Nichtraucher-Programm an. Dies kann als erstes Anzeichen dafür gesehen werden, dass die Branchengrenzen der Fitnessindustrie aufgeweicht werden und es zu einer Verschmelzung der Gesundheits- und Fitnessbranche kommen wird (Günther et al 2016).
+
+*Quelle: Mazzucco, B.; Jung, H. H. & Kraft, P. (2017). Auswirkungen der digitalen Transformation auf die Fitnessbranche in Deutschland. [Link](https://www.munich-business-school.de/fileadmin/user_upload/forschung/working_papers/mbs-wp-2017-06.pdf) [Stand: 02.10.2022].*
 
 ---
 
