@@ -14,7 +14,7 @@ Der Kunde "Fitness 365 GmbH" hat sich nach der Präsentation des Business Model 
 
 ---
 
-## Kompetenz 2.1: Strategische Analysen durchführen
+## Kompetenz 2.0: Strategische Analysen durchführen
 
 Bevor Sie sich mit den eigentlich strategischen Analysen auseinandersetzen, machen Sie ein Brainstorming zu den Möglichkeiten, die der Kunde mit seiner Weiterentwicklung in ein neues Produkt oder Geschäftsmodell nutzen könnte. Anschließend informieren Sie sich über die Analyse eines Unternehmens und seines Marktes und führen diese an dem Kunden durch.
 
@@ -71,7 +71,15 @@ Brainstorming als Ideensuch- und Kreativitätstechnik eignet sich besonders für
 - Der Biorhythmus der teilnehmen Personen wirkt sich möglicherweise auf deren Kreativität aus. Brainstorming-Sitzungen sollten nicht zu früh am Morgen oder kurz nach Mittag stattfinden.
 - Die Dokumentation sollte durch eine Person erfolgen, die nicht am kreativen Prozess beteiligt ist.
 
-*Quelle: https://www.orghandbuch.de/OHB/DE/Organisationshandbuch/6_MethodenTechniken/64_Kreativtechniken/641_Brainstorming/brainstorming-node.html*
+*Quelle: Bundesministerium des Inneren und für Heimat. [Link](https://www.orghandbuch.de/OHB/DE/Organisationshandbuch/6_MethodenTechniken/64_Kreativtechniken/641_Brainstorming/brainstorming-node.html) [Stand: 04.10.2022]*
+
+---
+
+### Informationsmaterial M|2.1: Tool-Tipp - Mindwendel
+
+Über Mindwendel (https://idea.kits.blog/) können Sie einfach kooperativ ein Brainstorming durchführen und die Ideen mithilfe von Kategorien clustern.
+
+// TODO Infovideo
 
 ---
 
@@ -81,7 +89,7 @@ Erarbeiten Sie sich mithilfe des LinkedIn-Learning-Kurses im Informationsmateria
 
 ---
 
-### Informationsmaterial M|2.1: LinkedIn-Learning-Kurs zu strategischen Analysen
+### Informationsmaterial M|2.2: LinkedIn-Learning-Kurs zu strategischen Analysen
 
 ![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.1_linkedin_stratanaly.png)
 
@@ -99,7 +107,7 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 ---
 
-### Informationsmaterial M|2.2: SWOT-Analysen von Spotify und Netflix
+### Informationsmaterial M|2.3: SWOT-Analysen von Spotify und Netflix
 
 #### SWOT-Analyse von Spotify
 
@@ -125,7 +133,7 @@ Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihre
 
 ---
 
-### Informationsmaterial M|2.3: Fitnessbranche verliert durch Corona Milliarden
+### Informationsmaterial M|2.4: Fitnessbranche verliert durch Corona Milliarden
 
 *von René Bocksch, 06.04.2022*
 
@@ -138,7 +146,7 @@ https://de.statista.com/infografik/13485/kennzahlen-zur-fitnessbranche-in-deutsc
 
 ---
 
-### Informationsmaterial M|2.4: Einfluss der digitalen Transformation auf die Fitnessbranche
+### Informationsmaterial M|2.5: Einfluss der digitalen Transformation auf die Fitnessbranche
 
 #### Vergleich der Online- und Offline-Fitnessangebote
 
