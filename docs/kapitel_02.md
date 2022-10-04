@@ -16,9 +16,7 @@ Der Kunde "Fitness 365 GmbH" hat sich nach der Präsentation des Business Model 
 
 ## Kompetenz 2.0: Brainstorming zu Geschäftsmodellen durchführen
 
-Bevor Sie sich mit den eigentlich strategischen Analysen auseinandersetzen, machen Sie ein Brainstorming zu den Möglichkeiten, die der Kunde mit seiner Weiterentwicklung in ein neues Produkt oder Geschäftsmodell nutzen könnte. Anschließend informieren Sie sich über die Analyse eines Unternehmens und seines Marktes und führen diese an dem Kunden durch.
-
-// TODO Einleitungstext überarbeiten
+Welche Geschäftsmodelle könnte der Kunde in der Zukunft betreiben? Die Fitnessstudios sollen auf jeden Fall erhalten bleiben. Das Angebot muss aber, um konkurrenzfähig zu bleiben vor Ort modernisiert werden. Ein weiteres Standbein soll über die Online-Vermarktung entstehen. Hierzu sollen Ideen gesammelt werden.
 
 ---
 
@@ -28,7 +26,7 @@ Bevor Sie sich mit den eigentlich strategischen Analysen auseinandersetzen, mach
 
 ---
 
-### Informationsmaterial M|2.0: Methodeninformation Brainstorming
+### Informationsmaterial M|2.0: Methodeninformation "Brainstorming"
 
 Brainstorming ist eine Kreativitätstechnik, die die Erzeugung von neuen, innovativen Ideen in einer Gruppe von Menschen fördert. Um die Gruppendynamik positiv nutzen zu können, ist es essentiell, bestimmt Grundregeln strikt einzuhalten. Dazu zählen folgende Punkte:
 
@@ -79,21 +77,19 @@ Brainstorming als Ideensuch- und Kreativitätstechnik eignet sich besonders für
 
 ### Informationsmaterial M|2.1: Tool-Tipp - Mindwendel
 
-Über [Mindwendel](https://idea.kits.blog/) können Sie einfach kooperativ ein Brainstorming durchführen und die Ideen mithilfe von Kategorien clustern. Zur Bedienung des Tools finden Sie hier eine Anleitung:
-
-// TODO Infovideo
+Über [Mindwendel](https://idea.kits.blog/) können Sie einfach gemeinsam ein Brainstorming durchführen und die Ideen mithilfe von Kategorien clustern.
 
 ---
 
 ## Kompetenz 2.1: Strategische Analysen für Geschäftsmodelle unterscheiden
 
-// TODO Einleitungstext
+Nach dem Brainstorming zu den Geschäftsmodellen des Kunden "Fitness 365 GmbH" sind strategische Überlegungen anzustellen. Es gibt unterschiedliche Analysemethoden für die Betrachtung dieser. Hierzu ist vorerst ein Überblick zu schaffen, welche Analyse welchen Fokus bietet.
 
 ---
 
 ### Arbeitsauftrag A|2.1: Strategische Analysen erarbeiten
 
-Erarbeiten Sie sich mithilfe des LinkedIn-Learning-Kurses im Informationsmaterial die strategischen Analysen. Haben Sie dabei den Kunden "Fitness 365 GmbH" vor Augen. Beantworten Sie die Kapiteltests und laden Sie als Aktivitätsnachweis das PDF-Zertifikat in dieser Aufgabe hoch.
+Erarbeiten Sie sich mithilfe des LinkedIn-Learning-Kurses im Informationsmaterial die strategischen Analysen (z.B. in Form einer Mindmap). Haben Sie dabei den Kunden "Fitness 365 GmbH" vor Augen. Beantworten Sie die Kapiteltests und laden Sie als Aktivitätsnachweis das PDF-Zertifikat in dieser Aufgabe hoch.
 
 ---
 
@@ -105,13 +101,54 @@ Erarbeiten Sie sich mithilfe des LinkedIn-Learning-Kurses im Informationsmateria
 
 ---
 
-## Kompetenz 2.2: SWOT-Analysen lesen und durchführen
+### Informationsmaterial M|2.3: Methodeninformation "Mindmap"
 
-Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitness 365 GmbH" gemacht. Für eine zielgerichtete Beratung müssen Sie interne Stärken und Schwächen sowie von außen bedingende Chancen und Risiken beachten. Deshalb soll eine SWOT-Analyse die weitere Beratung unterstützen.
+#### Was ist eine Mindmap?
 
-// TODO Einleitungstext überarbeiten
+Das Wort "Mindmap" kommt aus dem Englischen und setzt sich aus den Wörtern "mind" und "map" zusammen. "Mind" kann mit "Geist", "Gedanke" oder "Kopf" übersetzt werden. "Map" bedeutet "Karte" – im Sinn von Landkarte oder Stadtplan. Zusammengesetzt ist eine Mindmap also eine Gedankenkarte oder ein Gedankenplan.
 
-### Arbeitsauftrag A|2.2: SWOT-Analysen lesen
+So viel zum Wort – viel wichtiger ist natürlich, was eine Mindmap wirklich ist. Das interessiert dich eh viel mehr.
+
+Eine Mindmap ist eine grafische Darstellung zu einem Thema, Vorgang oder einer Assoziation. Meist gibt es ein Wort (Thema), das im Zentrum steht. Von diesem Zentrum gehen mehrere Verbindungen zu anderen Themen ab, von denen wiederum weitere Verbindungen abgehen.
+
+#### Zusammengefasst die Vorteile einer Mindmap
+
+- Themen übersichtlich strukturieren
+- Ordnen von komplexen Aufgaben
+- Problemlos erweiterbar
+- Legt Wissenslücken offen
+
+#### Wie erstellt man eine Mindmap? 5 Schritte zur Mindmap
+
+1. Schreib das Hauptthema zentral auf ein Blatt.
+2. Überleg dir, welche Unterthemen zu dem Hauptthema gehören, und ordne die Unterthemen um das Hauptthema an.
+3. Zeichne farbige Verbindungen von dem Hauptthema zu den Unterthemen. Beachte, dass jedes Unterthema eine eigene Farbe erhält.
+4. Ergänze Begriffe, die zu dem Unterthema gehören, und verbinde sie mit dem Unterthema. Benutze hierfür die gleiche Farbe wie für die Verbindung vom Hauptthema zu diesem Unterthema.
+5. Wiederhole die Schritte, bis du alle wichtigen Aspekte eines Themas vollständig auf deiner Mindmap erfasst hast.
+
+*Quelle: Learn Attack - Karmen (o.J.). Mindmap erstellen: In 5 einfachen Schritten zur Mindmap. [Link](https://learnattack.de/journal/mindmap-erstellen-in-5-einfachen-schritten-zur-mindmap/) [Stand: 04.10.2022].*
+
+---
+
+### Informationsmaterial M|2.4: Tool-Tipp - TeamMapper
+
+Über [TeamMapper](https://map.kits.blog/) können Sie Mindmaps kollaborativ erstellen.
+
+---
+
+### Arbeitsauftrag A|2.2: Analysen unterscheiden
+
+Nachdem Sie einen Überblick zu den Methoden erhalten haben, steht im Projektteam eine Besprechung an. Für diese sollen Sie zu jeder der im Kurs genannten Analysen eine Kurzbeschreibung anfertigen. Aus diesem Ein- bis Zweizeiler soll hervorgehen, welches Ziel die jeweilige Analyse hat.
+
+---
+
+## Kompetenz 2.2: SWOT-Analysen durchführen
+
+Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitness 365 GmbH" gemacht. Für eine zielgerichtete Beratung müssen Sie interne Stärken und Schwächen sowie von außen bedingende Chancen und Risiken beachten. Im vorherigen Kapitel wurde bereits die SWOT-Analyse angerissen. Diese soll nach Besprechung im Projektteam zuerst eingesetzt werden, um die Situation des Kunden genauer einzuschätzen.
+
+---
+
+### Arbeitsauftrag A|2.3: SWOT-Analysen lesen
 
 Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kennengelernt. Da Sie sich noch weiter in dieses Werkzeug einarbeiten wollen, recherchieren Sie zuvor angelegte SWOT-Analysen aus dem Umfeld der digitalen Geschäftsmodelle. Dabei haben Sie eine Analyse von Netflix und Spotify gefunden, an deren Beispiel Sie die Erstellung betrachten wollen.
 
@@ -121,7 +158,7 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 ---
 
-### Informationsmaterial M|2.3: SWOT-Analysen von Spotify und Netflix
+### Informationsmaterial M|2.5: SWOT-Analysen von Spotify und Netflix
 
 #### SWOT-Analyse von Spotify
 
@@ -135,13 +172,20 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 ---
 
-### Arbeitsauftrag A|2.2: SWOT-Analyse der Fitness 365 GmbH
+### Informationsmaterial M|2.6: Aufbau der SWOT-Analyse
 
-Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch. Beachten Sie die Brancheninformationen aus der Fitness- / Sport-Branche im Kurs.
+Sie finden bei [Studyflix - SWOT-Analyse](https://studyflix.de/wirtschaft/swot-analyse-234?topic_id=3) ein Überblicksvideo zu den vier Feldern der SWOT-Analyse.
+
 
 ---
 
-### Informationsmaterial M|2.4: Fitnessbranche verliert durch Corona Milliarden
+### Arbeitsauftrag A|2.4: SWOT-Analyse der Fitness 365 GmbH
+
+Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihren weiteren Überlegungen zum Werkzeug und dem Kunden "Fitness 365 GmbH" die SWOT-Analyse durch. Beachten Sie die Brancheninformationen aus der Fitness-/Sport-Branche im Kurs.
+
+---
+
+### Informationsmaterial M|2.7: Fitnessbranche verliert durch Corona Milliarden
 
 *von René Bocksch, 06.04.2022*
 
@@ -154,15 +198,15 @@ https://de.statista.com/infografik/13485/kennzahlen-zur-fitnessbranche-in-deutsc
 
 ---
 
-### Informationsmaterial M|2.5: Einfluss der digitalen Transformation auf die Fitnessbranche
+### Informationsmaterial M|2.8: Einfluss der digitalen Transformation auf die Fitnessbranche
 
 #### Vergleich der Online- und Offline-Fitnessangebote
 
-Digitale Fitnessanbieter bieten keine neuen Trainingsmethoden an, sondern geben Empfehlungen, wie trainiert werden kann. Die Angebote basieren auf der „alten“ Telegymnastik. Es werden thematisch sortierte Fitnessvideos zur Verfügung gestellt, in denen eine Person die Übungen vormacht und erläutert. Im Vordergrund stehen dabei Übungen ohne Geräte mit dem eigenen Körpergewicht. Die Übungen werden dem Nutzer individuell oder in Form eines Kursangebots zur Verfügung gestellt. Um aus einer Auswahl von vorgefertigten Trainingsplänen den passendsten herauszufiltern, ist die Angabe einiger persönlicher Daten erforderlich. Darunter fallen unter anderem Trainingsziel, Gewicht, Geschlecht, Alter, Fitnesszustand. Zu den Zielen gehören beispielsweise Muskelaufbau, Stärke, Körperkraft, Ausdauer oder Gewichtsverlust. Anhand dieser Angaben werden dem Nutzer ausgewählte Fitnessinhalte für das Training gezielter Körperpartien zur Verfügung gestellt. Ähnlich wie in den klassischen Fitnessstudios erhält der Nutzer einen Trainingsplan. Bei den Online-Anbietern wird der individuelle Trainingsplan immer wieder anhand von Algorithmen neu berechnet bzw. erstellt. Das Angebot an Fitness-Apps ist facettenreich und bedient unterschiedliche Bedürfnisse über Kraft-, Ausdauersport, Ernährungsratgeber bis hin zu Senioren-Trainings oder Schwangerschaftskursen.
+Digitale Fitnessanbieter bieten keine neuen Trainingsmethoden an, sondern geben Empfehlungen, wie trainiert werden kann. Die Angebote basieren auf der "alten" Telegymnastik. Es werden thematisch sortierte Fitnessvideos zur Verfügung gestellt, in denen eine Person die Übungen vormacht und erläutert. Im Vordergrund stehen dabei Übungen ohne Geräte mit dem eigenen Körpergewicht. Die Übungen werden dem Nutzer individuell oder in Form eines Kursangebots zur Verfügung gestellt. Um aus einer Auswahl von vorgefertigten Trainingsplänen den passendsten herauszufiltern, ist die Angabe einiger persönlicher Daten erforderlich. Darunter fallen unter anderem Trainingsziel, Gewicht, Geschlecht, Alter, Fitnesszustand. Zu den Zielen gehören beispielsweise Muskelaufbau, Stärke, Körperkraft, Ausdauer oder Gewichtsverlust. Anhand dieser Angaben werden dem Nutzer ausgewählte Fitnessinhalte für das Training gezielter Körperpartien zur Verfügung gestellt. Ähnlich wie in den klassischen Fitnessstudios erhält der Nutzer einen Trainingsplan. Bei den Online-Anbietern wird der individuelle Trainingsplan immer wieder anhand von Algorithmen neu berechnet bzw. erstellt. Das Angebot an Fitness-Apps ist facettenreich und bedient unterschiedliche Bedürfnisse über Kraft-, Ausdauersport, Ernährungsratgeber bis hin zu Senioren-Trainings oder Schwangerschaftskursen.
 
 Ähnlich zu klassischen Fitnessstudios variieren auch die Online-Angebote in Bezug auf Qualität und Benutzerfreundlichkeit. Hier gibt es vor allem Unterschiede bei der Aufmachung, Ausrichtung und Qualität des Inhalts, speziell der Videos. Dabei sind der visuelle Background, die Kompetenz und Sympathie des Trainers, die Bildauflösung sowie die Musikuntermalung entscheidende Faktoren. Der Großteil der Videos wird nicht zum Download bereitgestellt, sondern ist zugriffsbeschränkt. Durch den Login auf der Online-Plattform bzw. in der App ist das Streamen der Trainingsvideos möglich. Daher empfiehlt sich bei der Nutzung entweder WLAN-Zugriff oder eine schnelle Internetverbindung. In erster Linie ermöglichen die Online-Anbieter die Erfassung und Dokumentation erbrachter Leistungen. Darüber hinaus spielt bei den digitalen Angeboten die größere Flexibilität des Fitnesstrainings hinsichtlich Zeit und Ort eine entscheidende Rolle. Mit den Online-Anwendungen kann der Fitnesstreibende ortsungebunden trainieren, was die Unabhängigkeit erhöht. Bei dieser Nutzung kann der Trainierende weniger Wert auf das äußerliche Erscheinungsbild legen, ohne dass er sich durch andere gestört fühlt. Die Nutzung von Online-Anbietern bedeutet aber nicht, dass die Fitnesstreibenden auf eine unterstützende Community verzichten müssen. Die digitalen Anbieter unterstützen den Austausch mit anderen Mitgliedern und bieten Möglichkeiten an, Leistungen zu vergleichen oder online zu posten. Manche Anbieter ermöglichen sogar das Treffen zum gemeinsamen Sporttreiben. Darüber hinaus verfügen die digitalen Anbieter über ein weiteres Alleinstellungsmerkmal: die Motivation der Kunden. Durch virtuelle Belohnungssysteme wie zum Beispiel durch Trophäen oder Pokale, Fortschrittskurven, Kalorienverbrauchs-Tracking und Motivations-Mails spornen die Online-Anbieter ihre Kunden zum nachhaltigen Trainieren an.
 
-Klassische Fitnessstudios heben sich vor allem durch die Bereitstellung von Cardiound Kraftgeräten sowie Freihanteln und Stretching-Bereichen deutlich von den digitalen Angeboten ab. Neben dem räumlichen Ambiente und dem Angebot an Trainingsgeräten, differenzieren sie sich durch persönliche Betreuung von Fitnesstrainern und dem Angebot eines Wellenbereiches inklusiver Saunen, Dampfbädern, Ruheräumen und Solarien deutlich von den digitalen Anbietern. Auch bei der Kostenstruktur gibt es Unterschiede. Viele Anbieter von Fitness-Apps verlangen nur einmalige Kosten für den Download, andere hingegen bieten sowohl den Download also auch die Verwendung der App kostenlos an. Bei wieder anderen Anbietern ist zwar der Download kostenlos, allerdings stehen bei der Nutzung der App nur eingeschränkte Trainingsprogramme zur Verfügung. Mit optionaler Buchung eines Abos werden zusätzliche Funktionen z.B. die Erstellung eines individuellen Trainingsplans und ein erweitertes Trainingsangebot freigeschalten. Außerdem gibt es bei der Pay-Version meist Werbefreiheit während der Nutzung. Das Abonnement kann über sogenannte „In-App-Käufe“ oder auf der Website des Anbieters erworben werden. Für Online-Fitnessstudios wird wie auch bei klassischen Fitessanbietern ein monatlicher Mitgliedsbeitrag verlangt, der im Gegensatz dazu deutlich günstiger ist.
+Klassische Fitnessstudios heben sich vor allem durch die Bereitstellung von Cardiound Kraftgeräten sowie Freihanteln und Stretching-Bereichen deutlich von den digitalen Angeboten ab. Neben dem räumlichen Ambiente und dem Angebot an Trainingsgeräten, differenzieren sie sich durch persönliche Betreuung von Fitnesstrainern und dem Angebot eines Wellenbereiches inklusiver Saunen, Dampfbädern, Ruheräumen und Solarien deutlich von den digitalen Anbietern. Auch bei der Kostenstruktur gibt es Unterschiede. Viele Anbieter von Fitness-Apps verlangen nur einmalige Kosten für den Download, andere hingegen bieten sowohl den Download also auch die Verwendung der App kostenlos an. Bei wieder anderen Anbietern ist zwar der Download kostenlos, allerdings stehen bei der Nutzung der App nur eingeschränkte Trainingsprogramme zur Verfügung. Mit optionaler Buchung eines Abos werden zusätzliche Funktionen z.B. die Erstellung eines individuellen Trainingsplans und ein erweitertes Trainingsangebot freigeschalten. Außerdem gibt es bei der Pay-Version meist Werbefreiheit während der Nutzung. Das Abonnement kann über sogenannte "In-App-Käufe" oder auf der Website des Anbieters erworben werden. Für Online-Fitnessstudios wird wie auch bei klassischen Fitessanbietern ein monatlicher Mitgliedsbeitrag verlangt, der im Gegensatz dazu deutlich günstiger ist.
 
 #### Szenarien für die zukünftige Entwicklung der Fitnessbranche durch die Digitalisierung
 
@@ -172,7 +216,7 @@ Abgeleitet aus den bisherigen Analysen ergeben sich folgende drei Szenarien für
 - Digitalisierung als Treiber neuer Segmentdefinitionen
 - Neue Branchengrenzen durch disruptive Geschäftsmodelle
 
-Im ersten Szenario wird davon ausgegangen, dass sich die Online-Angebote als zusätzliche Nische neben den bestehenden Segmenten von Discount-, Medium-, Premium- und Special-Interest-Anbietern in der Fitnessbranche positionieren. Dies bedeutet, dass nach dem aktuellen „Hype“ um digitale Fitnessangebote schließlich ein Rückgang erfolgen wird. Trotz des Zusammenspiels zwischen Online- und Offline-Angeboten wird in diesem Fall das stationäre Fitnessstudio weiterhin das größte Marktsegment bilden. Dies schließt weitere Konsolidierungen nicht aus. Online-Features werden im traditionellen Fitnessstudio dennoch nur vereinzelt und ergänzend integriert sein (Günther et al 2016).
+Im ersten Szenario wird davon ausgegangen, dass sich die Online-Angebote als zusätzliche Nische neben den bestehenden Segmenten von Discount-, Medium-, Premium- und Special-Interest-Anbietern in der Fitnessbranche positionieren. Dies bedeutet, dass nach dem aktuellen "Hype" um digitale Fitnessangebote schließlich ein Rückgang erfolgen wird. Trotz des Zusammenspiels zwischen Online- und Offline-Angeboten wird in diesem Fall das stationäre Fitnessstudio weiterhin das größte Marktsegment bilden. Dies schließt weitere Konsolidierungen nicht aus. Online-Features werden im traditionellen Fitnessstudio dennoch nur vereinzelt und ergänzend integriert sein (Günther et al 2016).
 
 Das zweite Szenario geht von einem wesentlich größeren Einfluss der Digitalisierung auf die Fitnessbranche aus. Die gesamte Branche wird durch Online-Angebote grundlegend verändert und traditionelle Fitnessstudios bleiben ohne entsprechende Anpassung langfristig nicht wettbewerbsfähig. In diesem Fall werden die bestehenden Kernkompetenzen der klassischen Fitnessstudios durch Angebote im digitalen Bereich ersetzt. Die Fitness-Apps und Online-Fitnessstudios etablieren sich folglich als Wettbewerber am Markt. Dies wird schließlich zu einer Umstrukturierung der Marktsegmente führen. Anstatt die Geschäftsmodelle auf eine Zielgruppe zu beschränken, haben Online-Anbieter die Möglichkeit, zielgruppenspezifischer und individueller zu agieren.
 
@@ -183,6 +227,24 @@ Im dritten Szenario werden die klassischen Fitnessstudios nahezu vollständig du
 Damit reagiert das Unternehmen auf den Megatrend zur digitalen Fitness und wirkt disruptiv auf die bisherige Fitnessbranche. Die Plattform bietet außerdem z.B. ein Nichtraucher-Programm an. Dies kann als erstes Anzeichen dafür gesehen werden, dass die Branchengrenzen der Fitnessindustrie aufgeweicht werden und es zu einer Verschmelzung der Gesundheits- und Fitnessbranche kommen wird (Günther et al 2016).
 
 *Quelle: Mazzucco, B.; Jung, H. H. & Kraft, P. (2017). Auswirkungen der digitalen Transformation auf die Fitnessbranche in Deutschland. [Link](https://www.munich-business-school.de/fileadmin/user_upload/forschung/working_papers/mbs-wp-2017-06.pdf) [Stand: 02.10.2022].*
+
+---
+
+## Kompetenz 2.3: Branchenstrukturanalysen durchführen
+
+Die SWOT-Analyse hat ein gutes Bild zur Orientierung für die Geschäftsmodellentwicklung beim Kunden "Fitness 365 GmbH" ergeben. Um die Ergebnisse der bisherigen Betrachtung nochmals auf den Prüfstand zu stellen, soll nach Absprache mit dem Kunden eine Branchenstrukturanalyse durchgeführt werden.
+
+---
+
+### Arbeitsauftrag A|2.5: Branchenstrukturanalyse erstellen
+
+Versuchen Sie auf den Ergebnissen der SWOT-Analyse aufbauend den Fokus bei der Analyse der "Fitness 365 GmbH" auf die fünf Felder der Branchenstrukturanalyse nach Porter zu legen. Erstellen Sie eine Übersicht zu der Analyse. Welche neuen Erkenntnisse haben Sie gewinnen können?
+
+---
+
+### Informationsmaterial M|2.9: Five Forces nach Porter
+
+Sie finden bei [Studyflix - Porters Five Forces](https://studyflix.de/wirtschaft/porters-five-forces-289?topic_id=3) ein Überblicksvideo zu den fünf Kräften der Branchenstrukturanalyse.
 
 ---
 
