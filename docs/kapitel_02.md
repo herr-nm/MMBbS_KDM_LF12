@@ -12,6 +12,8 @@ In diesem Kapitel finden Sie ...
 
 Der Kunde "Fitness 365 GmbH" hat sich nach der Präsentation des Business Model Canvas dazu entschlossen das eigene Angebot modernisieren zu wollen. Nachdem in der Pandemie erste Erfahrungen mit Fitnessübungen via TikTok gemacht wurden, soll das neue Angebot aber professioneller aufgebaut werden. In welcher Form und auf welcher Plattform ist zum jetzigen Stand noch vollkommen offen.
 
+![klassisches Fitnessstudio](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_01_fitness.jpg)
+
 ---
 
 ## Kompetenz 2.0: Brainstorming zu Geschäftsmodellen durchführen
@@ -145,6 +147,9 @@ Nachdem Sie einen Überblick zu den Methoden erhalten haben, steht im Projekttea
 ## Kompetenz 2.2: SWOT-Analysen durchführen
 
 Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitness 365 GmbH" gemacht. Für eine zielgerichtete Beratung müssen Sie interne Stärken und Schwächen sowie von außen bedingende Chancen und Risiken beachten. Im vorherigen Kapitel wurde bereits die SWOT-Analyse angerissen. Diese soll nach Besprechung im Projektteam zuerst eingesetzt werden, um die Situation des Kunden genauer einzuschätzen.
+
+
+![Kleine Hanteln und Sportschuhe](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_02_fitness_2.jpg)
 
 ---
 
