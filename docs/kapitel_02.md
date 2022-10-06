@@ -14,6 +14,8 @@ In diesem Kapitel finden Sie ...
 
 Der Kunde "Fitness 365 GmbH" hat sich nach der Präsentation des Business Model Canvas dazu entschlossen das eigene Angebot modernisieren zu wollen. Nachdem in der Pandemie erste Erfahrungen mit Fitnessübungen via TikTok gemacht wurden, soll das neue Angebot aber professioneller aufgebaut werden. In welcher Form und auf welcher Plattform ist zum jetzigen Stand noch vollkommen offen.
 
+![klassisches Fitnessstudio](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_01_fitness.jpg)
+
 ---
 
 ## Kompetenz 2.0: Brainstorming zu Geschäftsmodellen durchführen
@@ -97,7 +99,7 @@ Erarbeiten Sie sich mithilfe des LinkedIn-Learning-Kurses im Informationsmateria
 
 ### Informationsmaterial M|2.2: LinkedIn-Learning-Kurs zu strategischen Analysen
 
-![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.1_linkedin_stratanaly.png)
+![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.2_linkedin_stratanaly.png)
 
 [Link zum Kurs](https://www.linkedin.com/learning/strategische-analysen-grundlagen/aussagekraftige-analysen-fur-zielgerichtetes-unternehmerisches-handeln)
 
@@ -148,6 +150,8 @@ Nachdem Sie einen Überblick zu den Methoden erhalten haben, steht im Projekttea
 
 Sie haben sich erste Gedanken über neue Geschäftsfelder für den Kunden "Fitness 365 GmbH" gemacht. Für eine zielgerichtete Beratung müssen Sie interne Stärken und Schwächen sowie von außen bedingende Chancen und Risiken beachten. Im vorherigen Kapitel wurde bereits die SWOT-Analyse angerissen. Diese soll nach Besprechung im Projektteam zuerst eingesetzt werden, um die Situation des Kunden genauer einzuschätzen.
 
+![Kleine Hanteln und Sportschuhe](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_02_fitness_2.jpg)
+
 ---
 
 ### Arbeitsauftrag A|2.3: SWOT-Analysen lesen
@@ -164,11 +168,11 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 #### SWOT-Analyse von Spotify
 
-![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.2_swot_spotify.png)
+![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.5_swot_spotify.png)
 
 #### SWOT-Analyse von Netflix
 
-![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.2_swot_netflix.png)
+![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.5_swot_netflix.png)
 
 *Quelle: Derr, T.; Georg, S. & Heiler, C. (2021). Die disruptive Innovation durch Streamingdienste. Eine strategische Analyse der Marktführer Netflix und Spotify*
 
@@ -193,7 +197,7 @@ Führen Sie auf Basis der bisher bekannten Informationen (s. Kapitel 1) und Ihre
 
 Deutschland ist laut Expert:innen einer der wichtigsten Fitnessmärkte Europas. Wie der Blick auf die Kennzahlen der Branche eindrucksvoll zeigt, sind die Umsätze bis 2019 kontinuierlich gewachsen – genauso wie die Zahl der Mitglieder in den Fitnessstudios. Allerdings hat die Corona-Pandemie deutliche Spuren hinterlassen. In den vergangenen zwei Pandemie-Jahren ist der deutschlandweite Umsatz laut DSSV um rund 1,91 Milliarden Euro gesunken, zudem haben etwa 1,51 Millionen Menschen ihre Mitgliedschaft bei einem der zahlreichen Fitnessstudios hierzulande gekündigt. Hinzukommen schätzungsweise 890.000 stillgelegte Abonnements. Dauerhafte Schließungen bedeuten das aus für viele Fitnesscenter – besonders diese, die nicht Teil einer großen Kette haben sich in den letzten Jahren nur mit Solidaritäts-Abos und Corona-Hilfen über Wasser halten können.
 
-![Statista - Fitnessbranche Umsatz und Mitglieder](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.3_statista_fitness_umsatz.jpeg)
+![Statista - Fitnessbranche Umsatz und Mitglieder](https://herr-nm.github.io/KDM-LF12/bilder/kap_02_M2.7_statista_fitness_umsatz.jpeg)
 
 *Quelle: Bocksch, R. (2022). Fitnessbranche verliert durch Corona Milliarden. [Link](
 https://de.statista.com/infografik/13485/kennzahlen-zur-fitnessbranche-in-deutschland/) [Stand: 01.10.2022].*
@@ -255,3 +259,5 @@ Sie finden bei [Studyflix - Porters Five Forces](https://studyflix.de/wirtschaft
    start="<!--include-start-->"
    end="<!--include-end-->"
 %}
+
+//TODO: Aufteilen in Dateien
