@@ -4,7 +4,9 @@
 
 In diesem Kapitel finden Sie ...
 
-- ... 
+- ... strategische Analysen von Unternehmen und ihren Geschäftsmodellen,
+- ... insbesondere die SWOT-Analyse und
+- ... insbesondere die Branchenstrukturanalyse nach Porter.
 
 ---
 
