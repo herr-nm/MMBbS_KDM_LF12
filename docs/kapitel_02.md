@@ -257,3 +257,5 @@ Sie finden bei [Studyflix - Porters Five Forces](https://studyflix.de/wirtschaft
    start="<!--include-start-->"
    end="<!--include-end-->"
 %}
+
+//TODO: Aufteilen in Dateien
