@@ -182,7 +182,6 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 Sie finden bei [Studyflix - SWOT-Analyse](https://studyflix.de/wirtschaft/swot-analyse-234?topic_id=3) ein Überblicksvideo zu den vier Feldern der SWOT-Analyse.
 
-
 ---
 
 ### Arbeitsauftrag A|2.4: SWOT-Analyse der Fitness 365 GmbH
