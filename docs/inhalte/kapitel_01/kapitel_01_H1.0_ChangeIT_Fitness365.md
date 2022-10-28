@@ -5,5 +5,5 @@ Die ChangeIT GmbH möchte das Angebot für seine Kunden zukünftig umfassender g
 
 Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der Analyse des Kunden "Fitness 365 GmbH" und seiner Geschäftsfelder auseinander.
 
-![Logo ChangeIT GmbH](https://herr-nm.github.io/KDM-LF12/bilder/kap_01_H1.0_changeITLogo.jpg)
+![Logo ChangeIT GmbH](https://herr-nm.github.io/MMBbS_KDM_LF12/bilder/kap_01_H1.0_changeITLogo.jpg)
 <!--include-end-->
