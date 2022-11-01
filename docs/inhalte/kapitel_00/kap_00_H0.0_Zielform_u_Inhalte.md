@@ -4,7 +4,7 @@
 ### Didaktischer Wizard
 
 - Sie finden die didaktische Planung der MMBbS im [Didaktischen Wizard](https://didakt.mm-bbs.de).
-- Die Lernsituationen sind auch direkt unter [GitHub - (Herr-NM)](https://herr-nm.github.io/MMBbS_KIT-Curriculum) abrufbar.
+- Die Lernsituationen sind auch direkt unter [GitHub - (Herr-NM)](https://herr-nm.github.io/MMBbS_KIT_Curriculum) abrufbar.
 - Dieser Moodle-Kurs ist als MkDocs-Seite unter [GitHub.io - (Herr-NM)](https://herr-nm.github.io/MMBbS_KDM_LF12) frei einsehbar.
 
 <br>
