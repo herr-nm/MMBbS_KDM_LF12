@@ -6,5 +6,5 @@
 3. Testen Sie anschließend kurz das passende Tool in [draw.io](https://draw.io) (Informationsmaterial M|1.2). Dazu wählen Sie bei der Übersicht erst Business und dann das BMC aus (s. Abbildung unten).
 4. Laden Sie zur Fertigstellung dieser Aufgabe Ihr LinkedIn-Learning-Zertifikat als .pdf-Datei hoch.
 
-![draw.io - Business Model Canvas](https://herr-nm.github.io/KDM-LF12/bilder/kap_01_A1.1_drawio.png)
+![draw.io - Business Model Canvas](https://herr-nm.github.io/MMBbS_KDM_LF12/bilder/kap_01_A1.1_drawio.png)
 <!--include-end-->

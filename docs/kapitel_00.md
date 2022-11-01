@@ -1,6 +1,6 @@
 # Kapitel 0: Organisatorisches
 
-![Kapitelbild](bilder/kap_00_00_kapitelbild.png)
+![Kapitelbild](https://herr-nm.github.io/MMBbS_KDM_LF12/bilder/kap_00_00_kapitelbild.png)
 
 In diesem Kapitel finden Sie ...
 

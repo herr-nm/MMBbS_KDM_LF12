@@ -1,6 +1,6 @@
 # Kapitel 1: Geschäftsmodelle und Vertriebswege analysieren
 
-![Kapitelbild](https://herr-nm.github.io/KDM-LF12/bilder/kap_01_00_kapitelbild.jpg)
+![Kapitelbild](https://herr-nm.github.io/MMBbS_KDM_LF12/bilder/kap_01_00_kapitelbild.jpg)
 
 In diesem Kapitel finden Sie ...
 
