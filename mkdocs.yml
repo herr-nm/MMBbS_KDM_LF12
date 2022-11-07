@@ -14,16 +14,15 @@ markdown_extensions:
 
 plugins:
   - include-markdown
-  - encryptcontent: {}
 
 extra_css:
   - 'extra.css'
 
 use_directory_urls: false
 
-repo_url: https://github.com/herr-nm/KDM-LF12.git
+repo_url: https://github.com/herr-nm/MMBbS_KDM_LF12
 
-site_url: https://herr-nm.github.io/KDM-LF12/
+site_url: https://herr-nm.github.io/MMBbS_KDM_LF12/
 
 nav:
     - Informationen zur Kurslizenz: 'index.md'
