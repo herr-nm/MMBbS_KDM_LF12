@@ -180,7 +180,7 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 ### Informationsmaterial M|2.6: Aufbau der SWOT-Analyse
 
-Sie finden bei [Studyflix - SWOT-Analyse](https://studyflix.de/wirtschaft/swot-analyse-234?topic_id=3) ein Überblicksvideo zu den vier Feldern der SWOT-Analyse.
+Sie finden beim [YouTube Kanal Wirtschaft erklärt](https://youtu.be/c_K6UKJaZUU) ein Überblicksvideo zu den vier Feldern der SWOT-Analyse.
 
 ---
 
@@ -253,10 +253,40 @@ Sie finden bei [Studyflix - Porters Five Forces](https://studyflix.de/wirtschaft
 
 ---
 
+## Kompetenz 2.4: Analyseergebnisse auswerten
+
+Die Fitness 365 GmbH wurde mithilfe der SWOT-Analyse sowie der Branchenstrukturanalyse betrachtet. Beide Methoden haben ihre Vor- und Nachteile, die bei der Beratung des Kunden berücksichtigt werden müssen.
+
+---
+
+### Arbeitsauftrag A|2.6: Vergleich der SWOT- mit der Branchenstrukturanalyse
+
+1. Welches sind aus Ihrer Sicht die Vor- und Nachteile der SWOT-Analyse?
+2. Welche Vor- und Nachteile sehen Sie in der Branchenstrukturanalyse?
+3. Wo sehen Sie Lücken in der Analyse, die beide Methoden nicht berücksichtigen?
+4. Inwiefern hat die Informationslage zu Unternehmen oder Branchen einen Einfluss auf Ihre Analyse-Ergebnisse gehabt?
+5. Welche weiteren Schritte können unternommen werden, um die Lücken in der weiteren Bearbeitung zu schließen?
+
+---
+
+!!! note "Zusätzliches Material, weitere Übungen & Tipps"
+
+    Die folgenden Übungen und Tipps & Tricks dienen Ihrer persönlichen Wiederholung und Vorbereitung auf Klassenarbeiten, Prüfungen etc. Die Übungen werden im Rahmen des Unterrichts nicht besprochen, es sei denn Sie haben konkrete Fragen hierzu.<br><br>*Sei loyal zu denen, die nicht anwesend sind. Damit baust du Vertrauen auf unter denen, die anwesend sind. (Stephen Covey, 1932-2012)*
+
+## Übungen
+
+---
+
+## Podcastempfehlungen
+
+### Do Weekly #044 - Do a S.W.O.T. Analysis (11/2020)
+
+[https://doweeklypodcast.com/episode-044-do-a-swot-analysis/]([Do Weekly #044 - Do a S.W.O.T. Analysis](https://doweeklypodcast.com/episode-044-do-a-swot-analysis/)
+
+---
+
 {%
    include-markdown "inhalte/lizenzhinweis.md"
    start="<!--include-start-->"
    end="<!--include-end-->"
 %}
-
-//TODO: Aufteilen in Dateien
