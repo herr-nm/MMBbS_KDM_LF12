@@ -44,7 +44,7 @@ Die Regeln zur Erstellung einer BPMN finden Sie [hier](https://camunda.com/de/bp
 
 Aus den Beobachtungen vor Ort in der Zentrale in Hannover:
 
-Der Neukunde erscheint zu seinem Termin. Als erstes werden seine persönlichen Daten in der Papierakte aufgenommen. Dies geschieht auf Basis des Personalausweises und einem Fragebogen, den der Neukunde vorab zugeschickt bekommen hat. Wenn die Daten alle aufgezeichnet sind, werden die Kerndaten in ein Druckerprogramm eingegeben. Über das Druckprogramm wird ein Mitgliedsausweis mit seinen Daten ausgedruckt.
+Der Neukunde erscheint zu seinem Termin. Als erstes werden seine persönlichen Daten in der Papierakte aufgenommen. Parallel wird der Vertrag ebenfalls mit diesen Daten gefüllt. Dies geschieht auf Basis des Personalausweises und einem Fragebogen, den der Neukunde vorab zugeschickt bekommen hat. Wenn die Daten alle aufgezeichnet sind, werden die Kerndaten in ein Druckerprogramm eingegeben. Über das Druckprogramm wird ein Mitgliedsausweis mit seinen Daten ausgedruckt. Außerdem werden der Vertrag und auch die Nutzungsbedingungen des Fitnessstudios vom Kunden unterschrieben und bei seinen Unterlagen abgeheftet.
 Nachdem der Akteneintrag fertiggestellt ist und der Ausweis gedruckt vorliegt, wird ein Foto vom Neukunden gemacht. Dieses wird ausgedruckt und auf den Mitgliedsausweis geklebt und dann laminiert. Auch wenn der Neukunde bereits ein Probetraining gemacht hat, werden ihm die Räumlichkeiten gezeigt. Nach dem Rundgang zieht sich der Neukunde um und meldet sich danach am Empfangsschalter. Der Trainer geht nun einen Basis-Fitnessplan mit dem Neukunden durch und begleitet die Übungen. Wenn der Neukunde möchte, kann das Wiegen und Feststellen des Körperfettanteils erfolgen. Am Ende des Trainings wird der Trainingsplan in einem Aktenschrank für den Neukunden abgelegt (diesen kann er sich beim nächsten Besuch selbstständig herausnehmen). Die Einführung des Neukunden endet mit der Möglichkeit Fragen zu klären. Wenn diese geklärt sind, ist der Termin beendet.
 
 ---
@@ -65,15 +65,9 @@ Das Erstellen von TikTok-Videos sowie der Prozess für die Neukunden-Aufnahme li
 
 ### Arbeitsauftrag A|3.1: Business Process Reengineering planen
 
-1. Der Prozess der Neuanlage von Kunden dauert der Geschäftsführerin zu lange. Immer wieder kommt es zu enttäuschten Kunden, die gerne mit dem Training beginnen wollen, aber nicht alle Bereiche des Studios sinnvoll nutzen können. Identifizieren Sie mögliche Problemstellen in dem modellierten Geschäftsablauf im Kurs.
-2. Welche Faktoren können einen nicht gut etablierten Prozess beschleunigen? Beschreiben Sie fünf mögliche generelle Optimierungsmöglichkeiten für Geschäftsprozesse.
-3. Wie könnte der Geschäftsprozess der Neuanlage optimiert werden? Überlegen Sie sich, welche Soft- und Hardware hierfür ggf. notwendig wäre und beschreiben Sie diese.
-
----
-
-### Informationsmaterial M|3.2: Geschäftsprozess zur Anlage von Neukunden
-
-TODO BPMN anlegen
+1. Der Prozess der Neuanlage von Kunden dauert der Geschäftsführerin zu lange. Immer wieder kommt es zu enttäuschten Kunden, die gerne mit dem Training beginnen wollen, aber lange brauchen, bis die Formalien erfüllt sind. Identifizieren Sie mögliche Problemstellen in dem modellierten Geschäftsablauf im Kurs.
+2. Welche Faktoren können einen nicht gut etablierten Prozess beschleunigen? Beschreiben Sie fünf mögliche generelle Optimierungsmöglichkeiten für Geschäftsprozesse, ohne diese zu digitalisieren.
+3. Wie könnte der Geschäftsprozess der Neuanlage auch technisch optimiert werden? Überlegen Sie sich, welche Soft- und Hardware hierfür ggf. notwendig wäre und beschreiben Sie diese, indem Sie eine EPK anlegen, in der der Prozess mit technischer Realisierung abgebildet wird.
 
 ---
 
@@ -83,7 +77,58 @@ Im Workshop mit dem Kunden wurden neue Ansätze für das Fitnessstudio erarbeite
 
 ---
 
-### Arbeitsauftrag A|3.2: 
+### Arbeitsauftrag A|3.2: Neugestaltung einer Plattform planen
+
+1. Informieren Sie sich, was eine Plattform ist und beschreiben Sie diese in eigenen Worten.
+2. Nennen und beschreiben Sie die Vorteile einer Plattform aus der Perspektive der Unternehmen.
+3. Nennen und beschreiben Sie die Vorteile einer Plattform aus der Perspektive der Kunden.
+4. Welche Nachteile können mit dem Plattformansatz einher gehen?
+
+---
+
+### Informationsmaterial M|3.6: Plattformansatz
+
+#### Einführung in Plattformen
+
+!!! quote "Schwab (2015)"
+
+    Ein wichtiger Trend ist die Entwicklung von technologiegestützten Plattformen, die sowohl Angebot als auch Nachfrage koordinieren und dadurch bestehende Branchenstrukturen und Marktführer ablösen. Beispiele hierfür sehen wir in der „sharing“ oder „on demand“ economy.
+
+"Dieses Zitat stammt von Klaus Schwab, dem Gründer des Weltwirtschaftsforums. Er verdeutlicht damit die steigende Relevanz von Plattformen und deren umwälzenden Charakter. Der Trend wird von dem beispiellosen Erfolg der vor Kurzem aufgekommenen digitalen Plattformen untermauert. Uber, eine Plattform für Mobilitätsdienstleistungen, steht hierbei exemplarisch für plattformbasierte Start-ups. Die Plattform gehört zu den sogenannten „Unicorns“, womit neu gegründete Unternehmen mit einer Bewertung von
+einer Milliarde US-Dollar zählen. Derzeit wird Uber mit 68 Mrd. US-Dollar und somit als erfolgreichstes Start-up aller Zeiten bewertet (CB Insights 2017). Ein weiterer Vertreter ist die Verkaufsplattform Alibaba, welche den Rekord für den erfolgreichsten Börsengang (IPO) hält. Für Plattformen in etablierten Unternehmen kann Apple genannt werden. Mit digitalen Plattformen wie iTunes oder dem App Store tragen beide Bereiche und Apple mit seiner Position als eines der wertvollsten Unternehmen der Fortune 500 Liste wesentlich zur Unternehmensbewertung bei (Stand: 20.09.2017).
+
+Doch was sind Plattformunternehmen, und was macht diese so erfolgreich? Digitale Plattformen sind der Dreh- und Angelpunkt eines Ökosystems von Partnern, Entwicklern, Kunden und anderen Interessensgruppen. Dieses Ökosystem ist üblicherweise als zweiseitiger Markt organisiert, indem die Plattform Angebot und Nachfrage koordiniert. Die digitale Plattform selbst ist dabei modular aufgebaut, um zum einen möglichst rasch auf Anforderungen im Markt reagieren zu können und zum anderen die Entwicklung neuer Produkte und Services voranzutreiben. Denn anstelle selbst neue Produkte und Services zu entwickeln, nutzt eine Plattform das Potenzial des Ökosystems, um auf sich ständig ändernde Marktanforderungen zu reagieren. Der Fall von Apple zeigt den Paradigmenwechsel von einer produktzentrierten hin zu einer plattformzentrierten Strategie. Das Unternehmen nutzt dabei technische Geräte wie das Macbook oder das iPhone, um Kunden und Partner Teil eines Ökosystems wie iTunes oder dem App Store werden zu lassen.
+Auf diesen digitalen Marktplätzen können dann Musikproduzenten ihre neuesten Songs oder Entwickler neue Applikationen vermarkten. Anstelle der klassischen Wertschöpfung können Kunden und Partner selbsterstellte Applikationen und Services anbieten, wobei
+Apple die Rolle des Intermediärs übernimmt, der Angebot und Nachfrage koordiniert. Die ausgelagerte Wertschöpfung forciert Netzwerkeffekte zwischen Anbietern und Kunden, bei denen auf der einen Seite Nutzer von zusätzlichen Applikationen und Songs und
+auf der anderen Seite Drittanbieter wie Künstler und Entwickler von weiteren Nutzern durch eine Vergrößerung des Ökosystems profitieren. Während sich im Endverbrauchermarkt (B2C) bereits Marktführer wie Uber, Airbnb, der App Store oder Play Store etabliert
+haben, steht die Entwicklung im Geschäftskundenbereich (B2B) erst am Anfang. Eine neu aufkommende Gruppe, die sich das Konzept von Plattformen zunutze macht, wird unter dem Begriff Industrie 4.0 zusammengefasst. Unter dem Begriff wird die intelligente Vernetzung von Produkten und Prozessen innerhalb der industriellen Wertschöpfung verstanden (Bitkom 2014). Neben Themen wie Cloud Computing, Robotics und Big Data wird auch die Vernetzung im sogenannten Internet der Dinge (IoT) immer wichtiger. Die zukünftige Relevanz dieser Technologien kann am Beispiel von IoT mit einem prognostizieren Jahresumsatz von 470 Mrd. US-Dollar für das Jahr 2020 verdeutlicht werden (Bain & Company 2016). Im Internet der Dinge werden Endgeräte wie Sensoren benutzt, um Daten über Produkte oder Produktionsprozesse zu sammeln und neue Erkenntnisse zu gewinnen. Für die Analyse der Daten oder Steuerung anhand definierter Sensorwerte können Unternehmen anschließend auf verschiedene Produkte und Services innerhalb des IoT-Plattform-Ökosystems zurückgreifen. Durch die Veränderung hin zu einer gemeinsamen Wertschöpfung mit dem Ökosystem entstehen immer mehr Märkte, die von einigen wenigen Plattformen dominiert werden.
+
+#### Plattform-Typen
+
+Plattform ist jedoch nicht gleich Plattform. Um das Phänomen von digitalen Plattformen besser zu verstehen, ist es sinnvoll, diese in vier spezifische Gruppen einzuteilen (Evans und Gawer 2016). Man unterscheidet zwischen Transaktionsplattformen, Innovationsplattformen, Integrationsplattformen und Investmentplattformen (vgl. Abb. 12.1). Vertreter von Transaktionsplattformen sind beispielsweise Airbnb, Netflix, eBay oder PayPal. Hierbei übernimmt die Plattform die Rolle eines Vermittlers, welcher Angebot
+und Nachfrage aufeinander abstimmt. Leistungen können Produkte von Verkäufern, Mobilitätsdienstleistungen, Apartments, Zahlungen oder Videos sein.
+
+Innovationsplattformen stellen eine Technologie in Form von Produkten oder Dienstleistungen zur Verfügung, welche als Basis für zukünftige Innovation dient. Unternehmen, die eine Innovationsplattform betreiben, sind beispielsweise Microsoft mit dem Betriebssystem Windows, SAP mit dem Enterprise Ressource Planning (ERP) System oder Salesforce als Customer-Relationship-Management(CRM)-Plattform. Dritte Parteien nutzen die Plattform, um darauf aufbauend neue Services und Produkte zu entwickeln. So
+können bestehende Prozesse in einem ERP-System an die individuellen Bedürfnisse in Unternehmen angepasst werden. Wichtig ist, dass die so entstandenen Individuallösungen nicht für alle anderen Kunden des ERP-Systems zur Verfügung stehen, sondern speziell
+auf den Kontext eines Unternehmens maßgeschneidert sind.
+
+Die Integrationsplattform kombiniert die Eigenschaften einer Transaktions- und einer Innovationsplattform. Vertreter dieser Kategorie umfassen Unternehmen wie Apple oder Google, die passende Plattformen wie App Stores und ein großes Ökosystem an Entwicklern mitbringen. Neu entwickelte Applikationen werden direkt im Ökosystem für eine Vielzahl an Nutzern zur Verfügung gestellt. Die Integrationsplattform verbindet also Aspekte der Transaktions- und Innovationsplattform.
+
+Die letzte Kategorie wird durch Investmentplattformen repräsentiert. Diese Unternehmen bauen auf einer Plattform-Portfolio-Strategie auf und agieren als Holding, Investor oder beides. Beispiele sind Softbank, Priceline oder Rocket Internet. Diese Unternehmen sind zwar keine Plattform per se, agieren aber als Anteilseigner wie im Falle von Priceline,
+welche Booking.com oder OpenTable im Portfolio haben.
+
+![Plattformarten](bilder/kap_03_plattformtypen.png)
+
+Zusammenfassend zeigen die vier Plattform-Kategorien unterschiedliche Facetten. Laut einer Studie aus dem Jahr 2015 (Evans und Gawer 2016) gibt es 176 Plattformunternehmen, welche insgesamt mit 4,3 Billionen US-Dollar bewertet sind. Den größten Anteil haben mit knapp 50 % sogenannte Integrationsplattformen wie Apple, Google, Amazon, Facebook oder Alibaba. Da diese Form von Plattform sowohl die Transaktions- als auch die Innovationsperspektive kombiniert, stellt sie einen idealen Fall dar, um das Konzept und den Erfolg von Plattformen näher zu beschreiben."
+
+*Quelle: Hein, A., Böhm, M., Krcmar, H. (2019). Digitale Plattformen. In: Dahm, M., Thode, S. (eds) Strategie und Transformation im digitalen Zeitalter. FOM-Edition. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-22032-7_12*
+
+---
+
+### Arbeitsauftrag A|3.3: Optimierung des Prozesses der Content Creation
+
+1. Sie haben sich zuvor mit dem Prozessablauf für das Erstellen des TikTok Contents auseinandergesetzt. Dabei spielten die Rahmenbedingungen bei der Plattform selbst keine Rolle. Informieren Sie sich über die Nutzerbedingungen bei TikTok (s. Auszug im Kurs) und schätzen Sie diese hinsichtlich der Risiken für Fitness 365 ein.
+2. Bei der Erstellung der Videoclips gibt es Optimierungsbedarf. Wie könnte ein idealer Workflow aussehen, den eine Software umsetzen müsste? Erstellen Sie ein neues BPMN als Vorschlag.
 
 ---
 
