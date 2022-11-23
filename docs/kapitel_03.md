@@ -22,14 +22,35 @@ In der Zusammenarbeit mit dem Kunden haben Sie angefangen erste Prozesse vor Ort
 
 ### Informationsmaterial M|3.0: Ablauf zur Veröffentlichung von TikTok-Videos
 
-TODO Ablauf anlegen
+Aus dem Interview mit der Geschäftsführerin Vivien Schmidt:
+
+Wir haben das bisher immer so gehandhabt: im ersten Schritt habe ich überlegt, welches Thema ein Videoclip haben soll. Anschließend habe ich den entsprechenden Trainer bzw. die entsprechende Trainerin angesprochen, der ich das Thema voll zutraue. Die Trainer haben sich dann Gedanken über ein kleines Konzept gemacht und mir dies kurz als Sprachnachricht via Signal übermittelt. Wenn ich Anpassungen haben wollte, habe ich über den gleichen Kanal die Änderungen mitgeteilt, ansonsten habe ich nur das OK als Feedback gegeben. Das Aufnehmen des Clips haben die Trainer dann gemeinsam mit den Auszubildenden durchgeführt. Das Video wurde mir schließlich wieder über Signal zugesendet. Nach Prüfung des Videos habe es auf meinem Smartphone bei TikTok veröffentlicht. Wenn ich mit dem Inhalt oder der Form nicht zufrieden war, wurde wieder Feedback an die Trainer gegeben, die dann nochmal neu das Konzept angepasst haben.
 
 ---
 
-### Informationsmaterial M|3.1: Ablauf zur Registrierung eines Neukunden
+### Informationsmaterial M|3.1: Tool-Tipp für BPMN
 
-TODO Ablauf anlegen
+Sie können für die Erstellung von BPMN die Anwendung [Cawmeo](https://cawemo.com/) verwenden.
 
+---
+
+### Informationsmaterial M|3.2: Cheat Sheet zur BPMN
+
+Die Regeln zur Erstellung einer BPMN finden Sie [hier](https://camunda.com/de/bpmn/bpmn-2-0-symbol-reference/).
+
+---
+
+### Informationsmaterial M|3.3: Ablauf zur Registrierung eines Neukunden
+
+---
+
+### Informationsmaterial M|3.4: Tool-Tipp für EPK
+
+Sie können für die Erstellung von EPK die Anwendung [ARIS Express](https://www.ariscommunity.com/aris-express) verwenden.
+
+### Informationsmaterial M|3.5: Cheat Sheet zur EPK
+
+Die Regeln zur Erstellung einer EPK finden Sie [hier](https://www.der-wirtschaftsingenieur.de/index.php/ereignisgesteuerte-prozesskette-epk/).
 
 ---
 
