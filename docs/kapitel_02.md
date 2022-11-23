@@ -174,7 +174,7 @@ Sie haben die SWOT-Analyse als eine Möglichkeit der strategischen Analyse kenne
 
 ![Screenshot vom Kurs Thumbnail](https://herr-nm.github.io/MMBbS_KDM_LF12/bilder/kap_02_M2.5_swot_netflix.png)
 
-*Quelle: Derr, T.; Georg, S. & Heiler, C. (2021). Die disruptive Innovation durch Streamingdienste. Eine strategische Analyse der Marktführer Netflix und Spotify*
+*Quelle: Derr, T.; Georg, S. & Heiler, C. (2021). Die disruptive Innovation durch Streamingdienste. Eine strategische Analyse der Marktführer Netflix und Spotify. Springer Gabler, Wiesbaden. [https://doi.org/10.1007/978-3-658-34011-7](https://doi.org/10.1007/978-3-658-34011-7)*
 
 ---
 

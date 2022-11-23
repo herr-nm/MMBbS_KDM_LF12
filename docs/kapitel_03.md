@@ -1,5 +1,13 @@
 # Kapitel 3: Geschäftsprozesse einrichten und optimieren
 
+![Kapitelbild](bilder/kap_03_kapitelbild.jpg)
+
+In diesem Kapitel finden Sie ...
+
+- ... die Analyse und Darstellung von Geschäftsprozessen,
+- ... die Optimierung von Abläufen sowie
+- ... das Einführen von Plattformen für Unternehmen
+---
 ## Handlungssituation
 
 Der Kunde "Fitness 365 GmbH" hat sich für zwei Schritte entschieden. Einerseits soll das zuvor amateurhafte TikTok-Videoangebot professionalisiert werden und eine eigene Plattform bilden. Hierzu sind Prozesse einzurichten, die zur Integration neuer Inhalte und Pflege dieser dienen. Andererseits sollen die Prozesse vor Ort in den Studios, die unmittelbar mit den Mitgliedern zu tun haben, optimiert werden. Die Verwaltung von Interessenten, Mitgliedern und deren Trainings sind dazu zu digitalisieren sowie zu optimieren.
@@ -53,6 +61,8 @@ Nachdem der Akteneintrag fertiggestellt ist und der Ausweis gedruckt vorliegt, w
 
 Sie können für die Erstellung von EPK die Anwendung [ARIS Express](https://www.ariscommunity.com/aris-express) verwenden.
 
+---
+
 ### Informationsmaterial M|3.5: Cheat Sheet zur EPK
 
 Die Regeln zur Erstellung einer EPK finden Sie [hier](https://www.der-wirtschaftsingenieur.de/index.php/ereignisgesteuerte-prozesskette-epk/).
@@ -62,6 +72,8 @@ Die Regeln zur Erstellung einer EPK finden Sie [hier](https://www.der-wirtschaft
 ## Kompetenz 3.1: Geschäftsprozesse reorganisieren
 
 Das Erstellen von TikTok-Videos sowie der Prozess für die Neukunden-Aufnahme liegen modelliert vor. Doch so richtig zufrieden mit der aktuellen Ausgestaltung der Prozesse sind weder Sie noch die Geschäftsführerin Vivien Schmidt. Für alle Beteiligten steht fest: An dieser Stelle muss optimiert werden.
+
+---
 
 ### Arbeitsauftrag A|3.1: Business Process Reengineering planen
 
@@ -121,16 +133,50 @@ welche Booking.com oder OpenTable im Portfolio haben.
 
 Zusammenfassend zeigen die vier Plattform-Kategorien unterschiedliche Facetten. Laut einer Studie aus dem Jahr 2015 (Evans und Gawer 2016) gibt es 176 Plattformunternehmen, welche insgesamt mit 4,3 Billionen US-Dollar bewertet sind. Den größten Anteil haben mit knapp 50 % sogenannte Integrationsplattformen wie Apple, Google, Amazon, Facebook oder Alibaba. Da diese Form von Plattform sowohl die Transaktions- als auch die Innovationsperspektive kombiniert, stellt sie einen idealen Fall dar, um das Konzept und den Erfolg von Plattformen näher zu beschreiben."
 
-*Quelle: Hein, A., Böhm, M., Krcmar, H. (2019). Digitale Plattformen. In: Dahm, M., Thode, S. (eds) Strategie und Transformation im digitalen Zeitalter. FOM-Edition. Springer Gabler, Wiesbaden. https://doi.org/10.1007/978-3-658-22032-7_12*
+*Quelle: Hein, A., Böhm, M., Krcmar, H. (2019). Digitale Plattformen. In: Dahm, M., Thode, S. (eds) Strategie und Transformation im digitalen Zeitalter. FOM-Edition. Springer Gabler, Wiesbaden. [https://doi.org/10.1007/978-3-658-22032-7_12](https://doi.org/10.1007/978-3-658-22032-7_12)*
 
 ---
 
 ### Arbeitsauftrag A|3.3: Optimierung des Prozesses der Content Creation
 
-1. Sie haben sich zuvor mit dem Prozessablauf für das Erstellen des TikTok Contents auseinandergesetzt. Dabei spielten die Rahmenbedingungen bei der Plattform selbst keine Rolle. Informieren Sie sich über die Nutzerbedingungen bei TikTok (s. Auszug im Kurs) und schätzen Sie diese hinsichtlich der Risiken für Fitness 365 ein.
+1. Sie haben sich zuvor mit dem Prozessablauf für das Erstellen des TikTok Contents auseinandergesetzt. Dabei spielten die Rahmenbedingungen bei der Plattform selbst keine Rolle. Informieren Sie sich über die Nutzerbedingungen bei TikTok (s. Auszug im Kurs) und schätzen Sie diese hinsichtlich der Risiken bei der Nutzung der Plattform für Fitness 365 ein.
 2. Bei der Erstellung der Videoclips gibt es Optimierungsbedarf. Wie könnte ein idealer Workflow aussehen, den eine Software umsetzen müsste? Erstellen Sie ein neues BPMN als Vorschlag.
 
 ---
+
+### Informationsmaterial M|3.7: Nutzungsbedingungen TikTok (Auszug)
+
+Sie finden einen Auszug sowie eine erste Einschätzung unter folgendem Link: [https://www.thomashutter.com/tiktok-kommerzielle-nutzung-durch-unternehmen-was-muss-beachtet-werden/](https://www.thomashutter.com/tiktok-kommerzielle-nutzung-durch-unternehmen-was-muss-beachtet-werden/).
+
+---
+
+### Arbeitsauftrag A|3.4: Eigene Plattform planen
+
+1. Welche bestehenden Softwareprodukte (Content-Management-Systeme) können für die Realisierung einer eigenen Plattform herangezogen werden? Verschaffen Sie sich mit dem Informationsmaterial im Kurs einen Überblick zu etablierten und aufsteigenden Systemen.
+2. Welche Webtechnologien werden bei einem Wordpress verwendet?
+3. Was unterscheidet ein Content-Management-System von einem Customer-Relationship-Management-System?
+4. Welche Datenschutzrechte müssen beachtet werden, wenn die Fitness 365 GmbH zukünftig seine Kund:innen digital verwalten und mit Inhalten versorgen möchte?
+
+---
+
+### Informationsmaterial M|3.8: Häufig genutzte Content-Management-Systeme
+
+Informieren Sie sich auf der Webseite [https://www.experte.de/homepage/cms-vergleich](https://www.experte.de/homepage/cms-vergleich).
+
+---
+
+### Informationsmaterial M|3.9: Webtechnologien von Content-Management-Systemen
+
+"Bei WordPress handelt es sich um ein dynamisches Publishing-System (Sie können Inhalte direkt über die Internet-Benutzeroberfläche erstellen und ändern), das auf PHP und MySQL basiert. Um mit WordPress Websites zu erzeugen, benötigen Sie keine Programmierkenntnisse. Sie können alle für WordPress erforderlichen Einstellungen und Anpassungen über ein benutzerfreundliches WebInterface (Dashboard genannt) vornehmen. Über das Dashboard können Sie auch sämtliche Inhalte erstellen. Die Inhalte werden in der auf Ihrem Webserver installierten MySQL-Datenbank gespeichert.
+
+Haben Sie Kenntnisse in PHP, JavaScript, HTML und/oder CSS, können Sie zusätzliche Anpassungen an Ihrer WordPress-Website vornehmen, die über die Möglichkeiten des Dashboards hinausgehen. Sie können beispielsweise per CSS das Aussehen Ihrer WordPress-Website ganz individuell anpassen."
+
+*Quelle: Kommer, I. (2019). Wordpress 5.7 Grundlagen. HERDT Verlag, Bodenheim.*
+---
+
+### Informationsmaterial M|3.10: Customer-Relationship-Management-Systeme
+
+Informaieren Sie sich auf der Webseite [https://blog.hubspot.de/sales/customer-relationship-management](https://blog.hubspot.de/sales/customer-relationship-management).
 
 {%
    include-markdown "inhalte/lizenzhinweis.md"
