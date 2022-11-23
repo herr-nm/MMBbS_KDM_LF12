@@ -42,6 +42,11 @@ Die Regeln zur Erstellung einer BPMN finden Sie [hier](https://camunda.com/de/bp
 
 ### Informationsmaterial M|3.3: Ablauf zur Registrierung eines Neukunden
 
+Aus den Beobachtungen vor Ort in der Zentrale in Hannover:
+
+Der Neukunde erscheint zu seinem Termin. Als erstes werden seine persönlichen Daten in der Papierakte aufgenommen. Dies geschieht auf Basis des Personalausweises und einem Fragebogen, den der Neukunde vorab zugeschickt bekommen hat. Wenn die Daten alle aufgezeichnet sind, werden die Kerndaten in ein Druckerprogramm eingegeben. Über das Druckprogramm wird ein Mitgliedsausweis mit seinen Daten ausgedruckt.
+Nachdem der Akteneintrag fertiggestellt ist und der Ausweis gedruckt vorliegt, wird ein Foto vom Neukunden gemacht. Dieses wird ausgedruckt und auf den Mitgliedsausweis geklebt und dann laminiert. Auch wenn der Neukunde bereits ein Probetraining gemacht hat, werden ihm die Räumlichkeiten gezeigt. Nach dem Rundgang zieht sich der Neukunde um und meldet sich danach am Empfangsschalter. Der Trainer geht nun einen Basis-Fitnessplan mit dem Neukunden durch und begleitet die Übungen. Wenn der Neukunde möchte, kann das Wiegen und Feststellen des Körperfettanteils erfolgen. Am Ende des Trainings wird der Trainingsplan in einem Aktenschrank für den Neukunden abgelegt (diesen kann er sich beim nächsten Besuch selbstständig herausnehmen). Die Einführung des Neukunden endet mit der Möglichkeit Fragen zu klären. Wenn diese geklärt sind, ist der Termin beendet.
+
 ---
 
 ### Informationsmaterial M|3.4: Tool-Tipp für EPK
