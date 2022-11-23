@@ -172,6 +172,7 @@ Informieren Sie sich auf der Webseite [https://www.experte.de/homepage/cms-vergl
 Haben Sie Kenntnisse in PHP, JavaScript, HTML und/oder CSS, können Sie zusätzliche Anpassungen an Ihrer WordPress-Website vornehmen, die über die Möglichkeiten des Dashboards hinausgehen. Sie können beispielsweise per CSS das Aussehen Ihrer WordPress-Website ganz individuell anpassen."
 
 *Quelle: Kommer, I. (2019). Wordpress 5.7 Grundlagen. HERDT Verlag, Bodenheim.*
+
 ---
 
 ### Informationsmaterial M|3.10: Customer-Relationship-Management-Systeme
