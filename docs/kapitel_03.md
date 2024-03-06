@@ -6,74 +6,87 @@ In diesem Kapitel finden Sie ...
 
 - ... die Analyse und Darstellung von Geschäftsprozessen,
 - ... die Optimierung von Abläufen sowie
-- ... das Einführen von Plattformen für Unternehmen
----
+- ... das Einführen von Plattformen für Unternehmen.
+
 ## Handlungssituation
 
-Der Kunde "Fitness 365 GmbH" hat sich für zwei Schritte entschieden. Einerseits soll das zuvor amateurhafte TikTok-Videoangebot professionalisiert werden und eine eigene Plattform bilden. Hierzu sind Prozesse einzurichten, die zur Integration neuer Inhalte und Pflege dieser dienen. Andererseits sollen die Prozesse vor Ort in den Studios, die unmittelbar mit den Mitgliedern zu tun haben, optimiert werden. Die Verwaltung von Interessenten, Mitgliedern und deren Trainings sind dazu zu digitalisieren sowie zu optimieren.
+Der Kunde "Fitness 365 GmbH" hat sich für zwei Schritte entschieden:
 
----
+- Einerseits sollen die Prozesse vor Ort in den Studios, die unmittelbar mit den Mitgliedern zu tun haben, optimiert werden. Die Verwaltung von Interessenten, Mitgliedern und deren Trainings sind dazu zu digitalisieren sowie zu optimieren.
+- Andererseits soll das zuvor amateurhafte TikTok-Videoangebot professionalisiert werden. Hierzu soll eine eigene Plattform eingerichtet werden, um Inhalte auszuspielen, aber auch einen Online-Shop und Mitgliederfunktionen anzubieten.
 
 ## Kompetenz 3.0: Problemstellung des Kunden analysieren
 
 In der Zusammenarbeit mit dem Kunden haben Sie angefangen erste Prozesse vor Ort zu begleiten. Sie haben sich dabei der Methode der Feldbeobachtung bedient. Hierzu wurden die Abläufe von Ihnen beobachtet und dann in kurzen Stichworten notiert. Die Notizen sollen nun systematisiert werden, um den Ist-Stand festzuhalten und zu bewerten.
 
----
-
 ### Arbeitsauftrag A|3.0: Grafische Abbildung der Prozesse
 
-1. Im Kurs finden Sie die zusammenfassenden Notizen, die Sie erstellt haben, als Sie Abläufe beobachtet haben. Nutzen Sie diese nun zur Abbildung des Falls der TikTok-Videos als BPMN.
-2. Weitere Notizen beschreiben den Ablauf, wie ein neuer Kunde des Fitnessstudios aktuell aufgenommen wird. Bilden Sie den Prozess unter Berücksichtigung aller Dokumente und Organisationseinheiten als EPK ab.
-3. Welches Potenzial erkennen Sie für die Digitalisierung des bestehenden Prozesses zur Neukundenaufnahme? Notieren Sie sich stichwortartig erste Aspekte hierzu.
-
----
+1. Im Kurs finden Sie die zusammenfassenden Notizen (M|3.0: Ablauf zur Veröffentlichung von TikTok-Videos), die Sie erstellt haben, als Sie Abläufe beobachtet haben. Nutzen Sie diese nun zur Abbildung des Falls der TikTok-Videos als BPMN (M|3.2: Tool-Tipp für BPMN / M|3.3: Cheat Sheet zur BPMN).
+2. Weitere Notizen beschreiben den Ablauf, wie ein neuer Kunde des Fitnessstudios aktuell aufgenommen wird (M|3.1: Ablauf zur Registrierung eines Neukunden). Bilden Sie den Prozess unter Berücksichtigung aller Dokumente und Organisationseinheiten ebenfalls als BPMN ab.
+3. Welches Potenzial erkennen Sie für die Digitalisierung des bestehenden Prozesses zur Neukundenaufnahme? Schätzen Sie dabei auch mithilfe des Informationsmaterials (M|3.4: Digitalisierungsgrad) ein, wie der aktuelle und wie der angestrebte Digitalisierungsgrad ist. Notieren Sie sich stichwortartig erste Aspekte hierzu.
 
 ### Informationsmaterial M|3.0: Ablauf zur Veröffentlichung von TikTok-Videos
 
 Aus dem Interview mit der Geschäftsführerin Vivien Schmidt:
 
-Wir haben das bisher immer so gehandhabt: im ersten Schritt habe ich überlegt, welches Thema ein Videoclip haben soll. Anschließend habe ich den entsprechenden Trainer bzw. die entsprechende Trainerin angesprochen, der ich das Thema voll zutraue. Die Trainer haben sich dann Gedanken über ein kleines Konzept gemacht und mir dies kurz als Sprachnachricht via Signal übermittelt. Wenn ich Anpassungen haben wollte, habe ich über den gleichen Kanal die Änderungen mitgeteilt, ansonsten habe ich nur das OK als Feedback gegeben. Das Aufnehmen des Clips haben die Trainer dann gemeinsam mit den Auszubildenden durchgeführt. Das Video wurde mir schließlich wieder über Signal zugesendet. Nach Prüfung des Videos habe es auf meinem Smartphone bei TikTok veröffentlicht. Wenn ich mit dem Inhalt oder der Form nicht zufrieden war, wurde wieder Feedback an die Trainer gegeben, die dann nochmal neu das Konzept angepasst haben.
+Wir haben das bisher immer so gehandhabt: im ersten Schritt habe ich überlegt, welches Thema ein Videoclip haben soll. Anschließend habe ich den entsprechenden Trainer bzw. die entsprechende Trainerin angesprochen, der ich das Thema voll zutraue. Die Trainer haben sich dann Gedanken über ein kleines Konzept gemacht und mir dies kurz als Sprachnachricht via Signal übermittelt. Wenn ich Anpassungen haben wollte, habe ich über den gleichen Kanal die Änderungen mitgeteilt, ansonsten habe ich nur das OK als Feedback gegeben. Das Aufnehmen des Clips haben die Trainer dann gemeinsam mit den Auszubildenden durchgeführt. Das Video wurde mir schließlich wieder über Signal zugesendet. Nach Prüfung des Videos habe ich es auf meinem Smartphone bei TikTok veröffentlicht. Wenn ich mit dem Inhalt oder der Form nicht zufrieden war, wurde wieder Feedback an die Trainer gegeben, die dann nochmal ein neues Video aufgenommen haben.
 
----
-
-### Informationsmaterial M|3.1: Tool-Tipp für BPMN
-
-Sie können für die Erstellung von BPMN die Anwendung [Cawmeo](https://cawemo.com/) verwenden.
-
----
-
-### Informationsmaterial M|3.2: Cheat Sheet zur BPMN
-
-Die Regeln zur Erstellung einer BPMN finden Sie [hier](https://camunda.com/de/bpmn/bpmn-2-0-symbol-reference/).
-
----
-
-### Informationsmaterial M|3.3: Ablauf zur Registrierung eines Neukunden
+### Informationsmaterial M|3.1: Ablauf zur Registrierung eines Neukunden
 
 Aus den Beobachtungen vor Ort in der Zentrale in Hannover:
 
 Der Neukunde erscheint zu seinem Termin. Als erstes werden seine persönlichen Daten in der Papierakte aufgenommen. Parallel wird der Vertrag ebenfalls mit diesen Daten gefüllt. Dies geschieht auf Basis des Personalausweises und einem Fragebogen, den der Neukunde vorab zugeschickt bekommen hat. Wenn die Daten alle aufgezeichnet sind, werden die Kerndaten in ein Druckerprogramm eingegeben. Über das Druckprogramm wird ein Mitgliedsausweis mit seinen Daten ausgedruckt. Außerdem werden der Vertrag und auch die Nutzungsbedingungen des Fitnessstudios vom Kunden unterschrieben und bei seinen Unterlagen abgeheftet.
 Nachdem der Akteneintrag fertiggestellt ist und der Ausweis gedruckt vorliegt, wird ein Foto vom Neukunden gemacht. Dieses wird ausgedruckt und auf den Mitgliedsausweis geklebt und dann laminiert. Auch wenn der Neukunde bereits ein Probetraining gemacht hat, werden ihm die Räumlichkeiten gezeigt. Nach dem Rundgang zieht sich der Neukunde um und meldet sich danach am Empfangsschalter. Der Trainer geht nun einen Basis-Fitnessplan mit dem Neukunden durch und begleitet die Übungen. Wenn der Neukunde möchte, kann das Wiegen und Feststellen des Körperfettanteils erfolgen. Am Ende des Trainings wird der Trainingsplan in einem Aktenschrank für den Neukunden abgelegt (diesen kann er sich beim nächsten Besuch selbstständig herausnehmen). Die Einführung des Neukunden endet mit der Möglichkeit Fragen zu klären. Wenn diese geklärt sind, ist der Termin beendet.
 
----
+### Informationsmaterial M|3.2: Tool-Tipp für BPMN
 
-### Informationsmaterial M|3.4: Tool-Tipp für EPK
+Sie können für die Erstellung von BPMN die Anwendung [Cawmeo](https://cawemo.com/) verwenden.
 
-Sie können für die Erstellung von EPK die Anwendung [ARIS Express](https://www.ariscommunity.com/aris-express) verwenden.
+### Informationsmaterial M|3.3: Cheat Sheet zur BPMN
 
----
+Die Regeln zur Erstellung einer BPMN finden Sie [hier](https://camunda.com/de/bpmn/bpmn-2-0-symbol-reference/).
 
-### Informationsmaterial M|3.5: Cheat Sheet zur EPK
+### Informationsmaterial M|3.4: Digitalisierungsgrad
 
-Die Regeln zur Erstellung einer EPK finden Sie [hier](https://www.der-wirtschaftsingenieur.de/index.php/ereignisgesteuerte-prozesskette-epk/).
+Die Digitalisierung von Geschäftsprozessen spielt eine entscheidende Rolle in der modernen Unternehmenswelt. Der Digitalisierungsgrad gibt an, wie stark die Prozesse in einem Unternehmen durch digitale Technologien unterstützt oder automatisiert sind.
 
----
+**Digitalisierungsgrade im Überblick:**
+1. **Analog:**
+    - Beschreibung: Prozesse werden manuell durchgeführt, ohne digitale Unterstützung oder Automatisierung.
+    - Beispiel: Papierbasierte Rechnungsbearbeitung, manuelle Dateneingabe ohne Nutzung von Software.
+
+2. **Teil-Digital:**
+    - Beschreibung: Einige Schritte des Prozesses sind digital unterstützt oder automatisiert, aber nicht alle.
+    - Beispiel: Eingangsrechnungen werden digital erfasst, aber die Freigabe erfolgt noch manuell.
+
+3. **Hoch-Digital:**
+    - Beschreibung: Der Großteil des Prozesses ist digital unterstützt oder automatisiert.
+    - Beispiel: Automatisierte Bestellprozesse, elektronische Kundenkommunikation.
+
+4. **Voll-Digital:**
+    - Beschreibung: Der gesamte Prozess ist vollständig digital unterstützt oder automatisiert.
+    - Beispiel: Digitale Vertragsverwaltung ohne manuelle Eingriffe, vollautomatisierte Produktionsprozesse in der Industrie 4.0.
+
+**Praxisbeispiele:**
+
+1. **Analog:**
+    - Ein Handwerksbetrieb führt seine Buchhaltung manuell auf Papier durch, ohne den Einsatz von Buchhaltungssoftware. Rechnungen werden physisch abgelegt und Daten werden manuell erfasst.
+
+2. **Teil-Digital:**
+    - Ein Großhandelsunternehmen verwendet eine digitale Plattform zur Bewerberverwaltung, jedoch erfolgt die Auswahl der Kandidaten und die Kommunikation noch manuell.
+
+3. **Hoch-Digital:**
+    - Ein Elektronik-Handel setzt ein Customer Relationship Management (CRM) System ein, um Kundenkontakte zu verwalten, Marketingaktivitäten zu automatisieren und Verkaufsprozesse zu optimieren.
+
+4. **Voll-Digital:**
+    - Ein Automobilzulieferer nutzt IoT-Sensoren und Automatisierungstechnologien, um den gesamten Produktionsprozess von der Bestellung bis zur Auslieferung vollständig digital zu steuern, minimiert manuelle Eingriffe und optimiert die Effizienz.
+
+Die fortschreitende Digitalisierung von Geschäftsprozessen bietet Unternehmen die Möglichkeit, ihre Abläufe effizienter zu gestalten, Kosten zu reduzieren und ihre Wettbewerbsfähigkeit zu steigern. Die vorgestellten Digitalisierungsgrade verdeutlichen, dass Unternehmen unterschiedliche Stufen der Digitalisierung erreichen können, abhängig von ihren Zielen, Ressourcen und Branchenanforderungen.
+
 
 ## Kompetenz 3.1: Geschäftsprozesse reorganisieren
 
 Das Erstellen von TikTok-Videos sowie der Prozess für die Neukunden-Aufnahme liegen modelliert vor. Doch so richtig zufrieden mit der aktuellen Ausgestaltung der Prozesse sind weder Sie noch die Geschäftsführerin Vivien Schmidt. Für alle Beteiligten steht fest: An dieser Stelle muss optimiert werden.
-
----
 
 ### Arbeitsauftrag A|3.1: Business Process Reengineering planen
 
@@ -81,13 +94,9 @@ Das Erstellen von TikTok-Videos sowie der Prozess für die Neukunden-Aufnahme li
 2. Welche Faktoren können einen nicht gut etablierten Prozess beschleunigen? Beschreiben Sie fünf mögliche generelle Optimierungsmöglichkeiten für Geschäftsprozesse, ohne diese zu digitalisieren.
 3. Wie könnte der Geschäftsprozess der Neuanlage auch technisch optimiert werden? Überlegen Sie sich, welche Soft- und Hardware hierfür ggf. notwendig wäre und beschreiben Sie diese, indem Sie eine EPK anlegen, in der der Prozess mit technischer Realisierung abgebildet wird.
 
----
-
 ## Kompetenz 3.2: Neugestaltung einer Plattform planen
 
-Im Workshop mit dem Kunden wurden neue Ansätze für das Fitnessstudio erarbeitet. Einer der Ansätze führt zur Neugestaltung einer Plattform für die Kunden. Die bisher bei TikTok freigegebenen Trainingsvideos und -anweisungen sind in der Erstellung aufwändig und sollen zukünftig noch weiter ausgebaut werden. Allerdings sollen die Kunden hiervon besser profitieren und bei TikTok lediglich reduzierte Zusammenfassungen als Anregung hochgeladen werden.
-
----
+Im Workshop mit dem Kunden wurden neue Ansätze für das Fitnessstudio erarbeitet. Einer der Ansätze führt zur Neugestaltung einer Plattform für die Kunden. Die bisher bei TikTok freigegebenen Trainingsvideos und -anweisungen sind in der Erstellung aufwändig und sollen zukünftig noch weiter ausgebaut werden. Allerdings sollen die Kunden hiervon besser profitieren und bei TikTok lediglich reduzierte Zusammenfassungen als Anregung hochgeladen werden. Das Angebot soll ferner um einen eigenen Online-Shop sowie eine digitale Mitgliederverwaltung (im Sinne Selbstverwaltung der Kund:innen) ergänzt werden.
 
 ### Arbeitsauftrag A|3.2: Neugestaltung einer Plattform planen
 
@@ -95,8 +104,6 @@ Im Workshop mit dem Kunden wurden neue Ansätze für das Fitnessstudio erarbeite
 2. Nennen und beschreiben Sie die Vorteile einer Plattform aus der Perspektive der Unternehmen.
 3. Nennen und beschreiben Sie die Vorteile einer Plattform aus der Perspektive der Kunden.
 4. Welche Nachteile können mit dem Plattformansatz einher gehen?
-
----
 
 ### Informationsmaterial M|3.6: Plattformansatz
 
@@ -135,35 +142,36 @@ Zusammenfassend zeigen die vier Plattform-Kategorien unterschiedliche Facetten. 
 
 *Quelle: Hein, A., Böhm, M., Krcmar, H. (2019). Digitale Plattformen. In: Dahm, M., Thode, S. (eds) Strategie und Transformation im digitalen Zeitalter. FOM-Edition. Springer Gabler, Wiesbaden. [https://doi.org/10.1007/978-3-658-22032-7_12](https://doi.org/10.1007/978-3-658-22032-7_12)*
 
----
+
 
 ### Arbeitsauftrag A|3.3: Optimierung des Prozesses der Content Creation
 
 1. Sie haben sich zuvor mit dem Prozessablauf für das Erstellen des TikTok Contents auseinandergesetzt. Dabei spielten die Rahmenbedingungen bei der Plattform selbst keine Rolle. Informieren Sie sich über die Nutzerbedingungen bei TikTok (s. Auszug im Kurs) und schätzen Sie diese hinsichtlich der Risiken bei der Nutzung der Plattform für Fitness 365 ein.
 2. Bei der Erstellung der Videoclips gibt es Optimierungsbedarf. Wie könnte ein idealer Workflow aussehen, den eine Software umsetzen müsste? Erstellen Sie ein neues BPMN als Vorschlag.
 
----
+
 
 ### Informationsmaterial M|3.7: Nutzungsbedingungen TikTok (Auszug)
 
 Sie finden einen Auszug sowie eine erste Einschätzung unter folgendem Link: [https://www.thomashutter.com/tiktok-kommerzielle-nutzung-durch-unternehmen-was-muss-beachtet-werden/](https://www.thomashutter.com/tiktok-kommerzielle-nutzung-durch-unternehmen-was-muss-beachtet-werden/).
 
----
+
 
 ### Arbeitsauftrag A|3.4: Eigene Plattform planen
 
-1. Welche bestehenden Softwareprodukte (Content-Management-Systeme) können für die Realisierung einer eigenen Plattform herangezogen werden? Verschaffen Sie sich mit dem Informationsmaterial im Kurs einen Überblick zu etablierten und aufsteigenden Systemen.
-2. Welche Webtechnologien werden bei einem Wordpress verwendet?
-3. Was unterscheidet ein Content-Management-System von einem Customer-Relationship-Management-System?
+1. Welche bestehenden Softwareprodukte (Content-Management-Systeme) können für die Realisierung einer eigenen Plattform herangezogen werden? Verschaffen Sie sich mit dem Informationsmaterial (M|3.8: Häufig genutzte Content-Management-Systeme) einen Überblick zu etablierten und aufsteigenden Systemen.
+2. Welche Webtechnologien werden bei einem Wordpress verwendet (M|3.9: Webtechnologien von Content-Management-Systemen)?
+3. Was unterscheidet ein Content-Management-System von einem Customer-Relationship-Management-System (M|3.10: Customer-Relationship-Management-Systeme)?
 4. Welche Datenschutzrechte müssen beachtet werden, wenn die Fitness 365 GmbH zukünftig seine Kund:innen digital verwalten und mit Inhalten versorgen möchte?
+5. Welche Datenschutzrechte müssen beachtet werden, wenn die Fitness 365 GmbH zukünftig seine Kund:innen digital verwalten und mit Inhalten versorgen möchte?
+6. Was ist zu beachten, wenn diese Daten ungewollt im Internet "auftauchen".
+7. Welche Pflichten ergeben sich für Fitness 365 hinsichtlich technisch-organisatorischer-Maßnahmen?
+8. Welche Pflichten ergeben sich hinsichtlich der Schutzziele von Daten? Beschreiben Sie jeweils zwei Beispiele.
 
----
 
 ### Informationsmaterial M|3.8: Häufig genutzte Content-Management-Systeme
 
 Informieren Sie sich auf der Webseite [https://www.experte.de/homepage/cms-vergleich](https://www.experte.de/homepage/cms-vergleich).
-
----
 
 ### Informationsmaterial M|3.9: Webtechnologien von Content-Management-Systemen
 
@@ -173,11 +181,9 @@ Haben Sie Kenntnisse in PHP, JavaScript, HTML und/oder CSS, können Sie zusätzl
 
 *Quelle: Kommer, I. (2019). Wordpress 5.7 Grundlagen. HERDT Verlag, Bodenheim.*
 
----
-
 ### Informationsmaterial M|3.10: Customer-Relationship-Management-Systeme
 
-Informaieren Sie sich auf der Webseite [https://blog.hubspot.de/sales/customer-relationship-management](https://blog.hubspot.de/sales/customer-relationship-management).
+Informieren Sie sich auf der Webseite [https://blog.hubspot.de/sales/customer-relationship-management](https://blog.hubspot.de/sales/customer-relationship-management).
 
 {%
    include-markdown "inhalte/lizenzhinweis.md"
