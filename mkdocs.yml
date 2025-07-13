@@ -27,8 +27,7 @@ site_url: https://herr-nm.github.io/MMBbS_KDM_LF12/
 nav:
     - Informationen zur Kurslizenz: 'index.md'
     - Kapitel 00 - Organisatorisches: 'kapitel_00.md'
-    - Kapitel 01 - Geschäftsmodelle und Vertriebswege analysieren: 'kapitel_01.md'
-    - Kapitel 02 - Marktanalysen durchführen: 'kapitel_02.md'
-    - Kapitel 03 - Unternehmen und ihre Geschäftsmodelle quantitativ auswerten: 'kapitel_03.md'
-    - Kapitel 04 - Geschäftsprozesse und -modelle weiterentwickeln: 'kapitel_04.md'
-    - Kapitel 05 - Digitale Produkte managen: 'kapitel_05.md'
+    - Kapitel 01 - Themenwahl und Organisation der Gruppenarbeit: 'kapitel_01.md'
+    - Kapitel 02 - Strategische Analysen für Geschäftsmodelle durchführen: 'kapitel_02.md'
+    - Kapitel 03 - Unternehmen mit dem Business Model Canvas darstellen: 'kapitel_03.md'
+    - Kapitel 04 - Digitale Geschäftsmodelle und Produkte planen: 'kapitel_04.md'

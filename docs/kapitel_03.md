@@ -1,189 +1,109 @@
 # Kapitel 3: Geschäftsprozesse einrichten und optimieren
 
-![Kapitelbild](bilder/kap_03_kapitelbild.jpg)
+![Kapitelbild](bilder/03_kapitelbild.png)
 
-In diesem Kapitel finden Sie ...
+In diesem Kapitel werden Sie ...
 
-- ... die Analyse und Darstellung von Geschäftsprozessen,
-- ... die Optimierung von Abläufen sowie
-- ... das Einführen von Plattformen für Unternehmen.
+- ... die Unternehmen nach internen und externen Faktoren durchleuchten.
+- ... das Business Model Canvas zur Analyse einsetzen.
 
 ## Handlungssituation
 
-Der Kunde "Fitness 365 GmbH" hat sich für zwei Schritte entschieden:
+Die ChangeIT GmbH möchte das Angebot für seine Kunden zukünftig umfassender gestalten und hat eine kleine Unternehmensberatung übernommen und als Abteilung integriert. Die Schnittstelle zwischen dem bisherigen IT-Systemhaus und der neuen Unternehmensberatungsschiene nehmen Sie ein.
 
-- Einerseits sollen die Prozesse vor Ort in den Studios, die unmittelbar mit den Mitgliedern zu tun haben, optimiert werden. Die Verwaltung von Interessenten, Mitgliedern und deren Trainings sind dazu zu digitalisieren sowie zu optimieren.
-- Andererseits soll das zuvor amateurhafte TikTok-Videoangebot professionalisiert werden. Hierzu soll eine eigene Plattform eingerichtet werden, um Inhalte auszuspielen, aber auch einen Online-Shop und Mitgliederfunktionen anzubieten.
+![Logo ChangeIT](bilder/01_changeit.jpg)
 
-## Kompetenz 3.0: Problemstellung des Kunden analysieren
+Um die neue Abteilung auch den Bestandskunden des IT-Systemhauses bekannt zu machen, bemühen Sie sich um ein großes Referenzprojekt. Da kommt es Ihnen gelegen, dass im Rahmen der Wirtschaftsförderung von kleinen und mittelständischen Unternehmen (KMU) ein Wettbewerb des Technologie und Gründerzentrums ausgerufen wurde. An dem Wettbewerb beteiligen sich große Unternehmen, die auf neue Ansätze für Ihre Handlungen auf dem Markt bauen wollen.
 
-In der Zusammenarbeit mit dem Kunden haben Sie angefangen erste Prozesse vor Ort zu begleiten. Sie haben sich dabei der Methode der Feldbeobachtung bedient. Hierzu wurden die Abläufe von Ihnen beobachtet und dann in kurzen Stichworten notiert. Die Notizen sollen nun systematisiert werden, um den Ist-Stand festzuhalten und zu bewerten.
+Der Wettbewerb umfasst insbesondere die Weiterentwicklung der digitalen Produkte und Geschäftsmodelle der Konzerne. Bei entsprechender Qualität der Ergebnisse erhofft sich die ChangeIT auch über den Wettbewerb hinaus Aufträge aus dem Umfeld der großen Unternehmen.
 
-### Arbeitsauftrag A|3.0: Grafische Abbildung der Prozesse
+Sie haben sich für ein Unternehmen entschieden. Führen Sie die Aufgaben in diesem Kapitel daher immer in Bezug auf die Handlungssituation des Wettbewerbs und auf das Unternehmen bzw. seine Branche durch.
 
-1. Im Kurs finden Sie die zusammenfassenden Notizen (M|3.0: Ablauf zur Veröffentlichung von TikTok-Videos), die Sie erstellt haben, als Sie Abläufe beobachtet haben. Nutzen Sie diese nun zur Abbildung des Falls der TikTok-Videos als BPMN (M|3.2: Tool-Tipp für BPMN / M|3.3: Cheat Sheet zur BPMN).
-2. Weitere Notizen beschreiben den Ablauf, wie ein neuer Kunde des Fitnessstudios aktuell aufgenommen wird (M|3.1: Ablauf zur Registrierung eines Neukunden). Bilden Sie den Prozess unter Berücksichtigung aller Dokumente und Organisationseinheiten ebenfalls als BPMN ab.
-3. Welches Potenzial erkennen Sie für die Digitalisierung des bestehenden Prozesses zur Neukundenaufnahme? Schätzen Sie dabei auch mithilfe des Informationsmaterials (M|3.4: Digitalisierungsgrad) ein, wie der aktuelle und wie der angestrebte Digitalisierungsgrad ist. Notieren Sie sich stichwortartig erste Aspekte hierzu.
+Die Darstellung von Informationen zu einem Unternehmen kann in Form von Canvas (visuelle Strukturierungshilfen) erfolgen. Eines der bekanntesten ist dabei das Business Model Canvas, welches verschiedene Dimensionen des Unternehmens darstellt. Ihre zuvor erzielten Ergebnisse der unterschiedlichen Analysen sollen im nächsten Schritt als Basis zur Darstellung des Unternehmens als One-Pager dienen.
 
-### Informationsmaterial M|3.0: Ablauf zur Veröffentlichung von TikTok-Videos
+## Kompetenz 3.0: Business Model Canvas kennenlernen
 
-Aus dem Interview mit der Geschäftsführerin Vivien Schmidt:
+Das Business Model Canvas dient als Strukturierungshilfe für die Darstellung eines Unternehmens. Dabei werden verschiedene Elemente des Unternehmens separat voneinander betrachtet. Im Rahmen des Wettbewerbs ist dies der letzte Schritt vor der Beratungsleistung.
 
-Wir haben das bisher immer so gehandhabt: im ersten Schritt habe ich überlegt, welches Thema ein Videoclip haben soll. Anschließend habe ich den entsprechenden Trainer bzw. die entsprechende Trainerin angesprochen, der ich das Thema voll zutraue. Die Trainer haben sich dann Gedanken über ein kleines Konzept gemacht und mir dies kurz als Sprachnachricht via Signal übermittelt. Wenn ich Anpassungen haben wollte, habe ich über den gleichen Kanal die Änderungen mitgeteilt, ansonsten habe ich nur das OK als Feedback gegeben. Das Aufnehmen des Clips haben die Trainer dann gemeinsam mit den Auszubildenden durchgeführt. Das Video wurde mir schließlich wieder über Signal zugesendet. Nach Prüfung des Videos habe ich es auf meinem Smartphone bei TikTok veröffentlicht. Wenn ich mit dem Inhalt oder der Form nicht zufrieden war, wurde wieder Feedback an die Trainer gegeben, die dann nochmal ein neues Video aufgenommen haben.
+### A|3.0: Business Model Canvas erarbeiten
 
-### Informationsmaterial M|3.1: Ablauf zur Registrierung eines Neukunden
+Erarbeiten Sie sich mithilfe des LinkedIn-Learning-Kurses im Informationsmaterial (M|3.0.0: LinkedIn-Learning-Kurs zum Business Model Canvas) das Business Model Canvas (z.B. in Form einer Mindmap). Beantworten Sie die Kapiteltests und laden Sie als Aktivitätsnachweis das PDF-Zertifikat in dieser Aufgabe hoch.
 
-Aus den Beobachtungen vor Ort in der Zentrale in Hannover:
+### M|3.0.0: LinkedIn-Learning-Kurs zum Business Model Canvas
 
-Der Neukunde erscheint zu seinem Termin. Als erstes werden seine persönlichen Daten in der Papierakte aufgenommen. Parallel wird der Vertrag ebenfalls mit diesen Daten gefüllt. Dies geschieht auf Basis des Personalausweises und einem Fragebogen, den der Neukunde vorab zugeschickt bekommen hat. Wenn die Daten alle aufgezeichnet sind, werden die Kerndaten in ein Druckerprogramm eingegeben. Über das Druckprogramm wird ein Mitgliedsausweis mit seinen Daten ausgedruckt. Außerdem werden der Vertrag und auch die Nutzungsbedingungen des Fitnessstudios vom Kunden unterschrieben und bei seinen Unterlagen abgeheftet.
-Nachdem der Akteneintrag fertiggestellt ist und der Ausweis gedruckt vorliegt, wird ein Foto vom Neukunden gemacht. Dieses wird ausgedruckt und auf den Mitgliedsausweis geklebt und dann laminiert. Auch wenn der Neukunde bereits ein Probetraining gemacht hat, werden ihm die Räumlichkeiten gezeigt. Nach dem Rundgang zieht sich der Neukunde um und meldet sich danach am Empfangsschalter. Der Trainer geht nun einen Basis-Fitnessplan mit dem Neukunden durch und begleitet die Übungen. Wenn der Neukunde möchte, kann das Wiegen und Feststellen des Körperfettanteils erfolgen. Am Ende des Trainings wird der Trainingsplan in einem Aktenschrank für den Neukunden abgelegt (diesen kann er sich beim nächsten Besuch selbstständig herausnehmen). Die Einführung des Neukunden endet mit der Möglichkeit Fragen zu klären. Wenn diese geklärt sind, ist der Termin beendet.
+![LinkedIn Videokurs](bilder/03_linkedin_bmc.png)
 
-### Informationsmaterial M|3.2: Tool-Tipp für BPMN
+[Videokurs aufrufen](https://www.linkedin.com/learning-login/share?account=68522354&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgeschaftsmodelle-mit-dem-business-model-canvas-entwickeln%3Ftrk%3Dshare_ent_url%26shareId%3DkUdBW8R1SXGqL48lFOlMXg%253D%253D)
 
-Sie können für die Erstellung von BPMN die Anwendung [Cawmeo](https://cawemo.com/) verwenden.
+### M|3.1.0: Tool-Tipp - https://app.diagrams.net/
 
-### Informationsmaterial M|3.3: Cheat Sheet zur BPMN
+Über https://app.diagrams.net/ (ehemals draw.io) finden Sie in den Vorlagen im Bereich Business das Business Model Canvas.
 
-Die Regeln zur Erstellung einer BPMN finden Sie [hier](https://camunda.com/de/bpmn/bpmn-2-0-symbol-reference/).
+## Kompetenz 3.1: Business Model Canvas erstellen
 
-### Informationsmaterial M|3.4: Digitalisierungsgrad
+Nachdem Sie das Business Model Canvas kennengelernt haben, soll dieses für das von Ihnen gewählte Unternehmen erstellt werden. Die Informationen hierzu sind Ihnen zum Teil bereits aus der ersten Phase - den strategischen Analysen - bekannt. Weitere Aspekte sind zu recherchieren.
 
-Die Digitalisierung von Geschäftsprozessen spielt eine entscheidende Rolle in der modernen Unternehmenswelt. Der Digitalisierungsgrad gibt an, wie stark die Prozesse in einem Unternehmen durch digitale Technologien unterstützt oder automatisiert sind.
+### A|3.1: Business Model Canvas erstellen
 
-**Digitalisierungsgrade im Überblick:**
-1. **Analog:**
-    - Beschreibung: Prozesse werden manuell durchgeführt, ohne digitale Unterstützung oder Automatisierung.
-    - Beispiel: Papierbasierte Rechnungsbearbeitung, manuelle Dateneingabe ohne Nutzung von Software.
+Erstellen Sie das im LinkedIn-Kurs dargestellte Business Model Canvas für Ihr ausgewähltes Unternehmen und seine Branche.
 
-2. **Teil-Digital:**
-    - Beschreibung: Einige Schritte des Prozesses sind digital unterstützt oder automatisiert, aber nicht alle.
-    - Beispiel: Eingangsrechnungen werden digital erfasst, aber die Freigabe erfolgt noch manuell.
+Wie Sie die Arbeit innerhalb der Gruppe aufteilen, kann von Ihnen entschieden werden. Wichtig ist, dass alle Gruppenmitglieder am Ende ...
 
-3. **Hoch-Digital:**
-    - Beschreibung: Der Großteil des Prozesses ist digital unterstützt oder automatisiert.
-    - Beispiel: Automatisierte Bestellprozesse, elektronische Kundenkommunikation.
+- ... die gesamte Analyse auch selbst durchführen können,
+- ... über die Ergebnisse im Bilde sind,
+- ... das Gesamtergebnis der Gruppe vertreten.
 
-4. **Voll-Digital:**
-    - Beschreibung: Der gesamte Prozess ist vollständig digital unterstützt oder automatisiert.
-    - Beispiel: Digitale Vertragsverwaltung ohne manuelle Eingriffe, vollautomatisierte Produktionsprozesse in der Industrie 4.0.
+**Aufgabe 1**
 
-**Praxisbeispiele:**
+Beschreiben Sie stichpunktartig das von Ihnen gewählte Unternehmen im aktuellen Stand mithilfe der Segmente im Business Model Canvas.
 
-1. **Analog:**
-    - Ein Handwerksbetrieb führt seine Buchhaltung manuell auf Papier durch, ohne den Einsatz von Buchhaltungssoftware. Rechnungen werden physisch abgelegt und Daten werden manuell erfasst.
+**Aufgabe 2**
 
-2. **Teil-Digital:**
-    - Ein Großhandelsunternehmen verwendet eine digitale Plattform zur Bewerberverwaltung, jedoch erfolgt die Auswahl der Kandidaten und die Kommunikation noch manuell.
+Eine kurze Bewertung des Ergebnisses und eine Reflexion des Erstellungsprozesses stehen am Ende. Wie sind Sie im Rahmen der jeweiligen Analyse vorgegangen? Welche Schwierigkeiten hatten Sie? Wie haben Sie die Probleme gelöst?
 
-3. **Hoch-Digital:**
-    - Ein Elektronik-Handel setzt ein Customer Relationship Management (CRM) System ein, um Kundenkontakte zu verwalten, Marketingaktivitäten zu automatisieren und Verkaufsprozesse zu optimieren.
+**Hinweise zur Abgabe**
 
-4. **Voll-Digital:**
-    - Ein Automobilzulieferer nutzt IoT-Sensoren und Automatisierungstechnologien, um den gesamten Produktionsprozess von der Bestellung bis zur Auslieferung vollständig digital zu steuern, minimiert manuelle Eingriffe und optimiert die Effizienz.
+- Halten Sie fest, welche Quellen Sie für Informationen im Rahmen der Analysen verwendet haben.
+- Sollten Sie zur Informationseinholung oder ähnlichen Prozessschritten KI-Tools anwenden, ist zwingend der M|0.3: KI-Leitfaden für den Unterricht einzuhalten.
+- Sie geben als Gruppe gemeinsam ein Dokument mit allen bearbeiteten Analysen ab. Eine Person aus der Gruppe lädt das Dokument als Gruppenlösung in der Aufgabe hoch. Nach Upload gilt die Einreichung als vollständig. Eingereichte Dokumente können durch jedes Gruppenmitglied nochmals aktualisiert hochgeladen werden.
+ 
+## Handlungsergebnis
 
-Die fortschreitende Digitalisierung von Geschäftsprozessen bietet Unternehmen die Möglichkeit, ihre Abläufe effizienter zu gestalten, Kosten zu reduzieren und ihre Wettbewerbsfähigkeit zu steigern. Die vorgestellten Digitalisierungsgrade verdeutlichen, dass Unternehmen unterschiedliche Stufen der Digitalisierung erreichen können, abhängig von ihren Zielen, Ressourcen und Branchenanforderungen.
+Für die zweite Phase des Wettbewerbs haben Sie das Business Model Canvas für das ausgewählte Unternehmen durchgeführt. Dieses soll nun im Gesamtreader des Projektes entsprechend dargestellt und kurz schriftlich ausgewertet werden. Dieser Schritt bildet den Abschluss der zweiten Phase und damit einen Meilenstein des Wettbewerbs.
 
+### A|3.2: Dokumentation zum Business Model Canvas erstellen
 
-## Kompetenz 3.1: Geschäftsprozesse reorganisieren
+Wie Sie die Arbeit innerhalb der Gruppe aufteilen, kann von Ihnen entschieden werden. Wichtig ist, dass alle Gruppenmitglieder am Ende ...
 
-Das Erstellen von TikTok-Videos sowie der Prozess für die Neukunden-Aufnahme liegen modelliert vor. Doch so richtig zufrieden mit der aktuellen Ausgestaltung der Prozesse sind weder Sie noch die Geschäftsführerin Vivien Schmidt. Für alle Beteiligten steht fest: An dieser Stelle muss optimiert werden.
+- ... jede Analyse auch selbst durchführen können,
+- ... über die Ergebnisse im Bilde sind,
+- ... das Gesamtergebnis der Gruppe vertreten.
 
-### Arbeitsauftrag A|3.1: Business Process Reengineering planen
+**Aufgabe 1**
 
-1. Der Prozess der Neuanlage von Kunden dauert der Geschäftsführerin zu lange. Immer wieder kommt es zu enttäuschten Kunden, die gerne mit dem Training beginnen wollen, aber lange brauchen, bis die Formalien erfüllt sind. Identifizieren Sie mögliche Problemstellen in dem modellierten Geschäftsablauf im Kurs.
-2. Welche Faktoren können einen nicht gut etablierten Prozess beschleunigen? Beschreiben Sie fünf mögliche generelle Optimierungsmöglichkeiten für Geschäftsprozesse, ohne diese zu digitalisieren.
-3. Wie könnte der Geschäftsprozess der Neuanlage auch technisch optimiert werden? Überlegen Sie sich, welche Soft- und Hardware hierfür ggf. notwendig wäre und beschreiben Sie diese, indem Sie eine EPK anlegen, in der der Prozess mit technischer Realisierung abgebildet wird.
+Nutzen Sie die Ergebnisse aus den Aufgaben A|3.0: Business Model Canvas erarbeiten erarbeiten und A|3.1: Business Model Canvas erstellen zur Vervollständigung der Dokumentation (Ihre Abgabe aus A|2.2: Dokumentation der strategischen Analysen erstellen) im Rahmen des Wettbewerbs und betten Sie diese als Kapitel "3 Business Model Canvas" in das Gesamtdokument ein.
 
-## Kompetenz 3.2: Neugestaltung einer Plattform planen
+**Aufgabe 2**
 
-Im Workshop mit dem Kunden wurden neue Ansätze für das Fitnessstudio erarbeitet. Einer der Ansätze führt zur Neugestaltung einer Plattform für die Kunden. Die bisher bei TikTok freigegebenen Trainingsvideos und -anweisungen sind in der Erstellung aufwändig und sollen zukünftig noch weiter ausgebaut werden. Allerdings sollen die Kunden hiervon besser profitieren und bei TikTok lediglich reduzierte Zusammenfassungen als Anregung hochgeladen werden. Das Angebot soll ferner um einen eigenen Online-Shop sowie eine digitale Mitgliederverwaltung (im Sinne Selbstverwaltung der Kund:innen) ergänzt werden.
+Beschreiben Sie unter "3.1 Vorstellung des Tools Business Model Canvas" erst allgemein, was das Business Model Canvas ist, welche Segmente es gibt und welche Fragestellungen mit ihnen gelöst werden können. Anschließend betten Sie in "3.2 Anwendung des Tools Business Model Canvas" das ausgefüllte Business Model Canvas zu dem von Ihnen gewählten Unternehmen ein. Zum Schluss beschreiben Sie zusammenfassend die Auswertung in "3.3 Einordnung des Business Model Canvas" und geben erste Ausblicke, in welche Richtung sich das Unternehmen weiterentwicklen könnte. Haben Sie dabei vor allem digitale (!) Produkte und Geschäftsmodelle im Fokus.
 
-### Arbeitsauftrag A|3.2: Neugestaltung einer Plattform planen
+**Aufgabe 3**
 
-1. Informieren Sie sich, was eine Plattform ist und beschreiben Sie diese in eigenen Worten.
-2. Nennen und beschreiben Sie die Vorteile einer Plattform aus der Perspektive der Unternehmen.
-3. Nennen und beschreiben Sie die Vorteile einer Plattform aus der Perspektive der Kunden.
-4. Welche Nachteile können mit dem Plattformansatz einher gehen?
+Reflektieren Sie gemeinsam Ihre Arbeit als Gruppe. Nutzen Sie dazu das bereits bekannte Informationsmaterial M|2.2.1: Reflexion von Gruppenarbeiten als Hilfestellung. Sie müssen nicht alle Fragen, die in dem Material aufgeführt sind beantworten. Greifen Sie sich als Gruppe die für Sie wichtigen Themen heraus. Die Reflexion wird als gemeinsame Datei ebenfalls in dieser Aufgabe abgegeben. Ihre Reflexion sollte genau eine DIN A4-Seite umfassen. Nutzen Sie dafür erneut die Vorlage M|2.2.2: Vorlage zur Reflexion.
 
-### Informationsmaterial M|3.6: Plattformansatz
+**Hinweise zur Abgabe**
 
-#### Einführung in Plattformen
+- Erweitern Sie im Dokument das Literaturverzeichnis, in welchem Sie die Quellen für Ihre Analysen angeben.
+- Sollten Sie zur Informationseinholung oder ähnlichen Prozessschritten KI-Tools anwenden, ist zwingend der M|0.3: KI-Leitfaden für den Unterricht einzuhalten.
+- Benennen Sie die Dokumente nach folgendem Muster:
+  - Unternehmen_Doku_2_NachnameV_NachnameV_NachnameV_NachnameV.pdf
+  - Unternehmen_Reflexion_2_NachnameV_NachnameV_NachnameV_NachnameV.pdf
+- Sie geben als Gruppe gemeinsam ein Dokument mit dem Business Model Canvas sowie die Reflexion ab. Eine Person aus der Gruppe lädt das Dokument als Gruppenlösung in der Aufgabe hoch. Nach Upload gilt die Einreichung erst dann als vollständig, wenn alle Gruppenmitglieder die Abgabe in Moodle über den entsprechenden Button bestätigt haben. Eine Änderung ist im Anschluss nicht möglich.
+- Das Bewertungsraster für die Abgabe 2 finden Sie im M|3.2.0: Bewertungsraster zur Abgabe 2.
 
-!!! quote "Schwab (2015)"
+### M|3.2.0: Bewertungsraster zur Abgabe 2
 
-    Ein wichtiger Trend ist die Entwicklung von technologiegestützten Plattformen, die sowohl Angebot als auch Nachfrage koordinieren und dadurch bestehende Branchenstrukturen und Marktführer ablösen. Beispiele hierfür sehen wir in der „sharing“ oder „on demand“ economy.
-
-"Dieses Zitat stammt von Klaus Schwab, dem Gründer des Weltwirtschaftsforums. Er verdeutlicht damit die steigende Relevanz von Plattformen und deren umwälzenden Charakter. Der Trend wird von dem beispiellosen Erfolg der vor Kurzem aufgekommenen digitalen Plattformen untermauert. Uber, eine Plattform für Mobilitätsdienstleistungen, steht hierbei exemplarisch für plattformbasierte Start-ups. Die Plattform gehört zu den sogenannten „Unicorns“, womit neu gegründete Unternehmen mit einer Bewertung von
-einer Milliarde US-Dollar zählen. Derzeit wird Uber mit 68 Mrd. US-Dollar und somit als erfolgreichstes Start-up aller Zeiten bewertet (CB Insights 2017). Ein weiterer Vertreter ist die Verkaufsplattform Alibaba, welche den Rekord für den erfolgreichsten Börsengang (IPO) hält. Für Plattformen in etablierten Unternehmen kann Apple genannt werden. Mit digitalen Plattformen wie iTunes oder dem App Store tragen beide Bereiche und Apple mit seiner Position als eines der wertvollsten Unternehmen der Fortune 500 Liste wesentlich zur Unternehmensbewertung bei (Stand: 20.09.2017).
-
-Doch was sind Plattformunternehmen, und was macht diese so erfolgreich? Digitale Plattformen sind der Dreh- und Angelpunkt eines Ökosystems von Partnern, Entwicklern, Kunden und anderen Interessensgruppen. Dieses Ökosystem ist üblicherweise als zweiseitiger Markt organisiert, indem die Plattform Angebot und Nachfrage koordiniert. Die digitale Plattform selbst ist dabei modular aufgebaut, um zum einen möglichst rasch auf Anforderungen im Markt reagieren zu können und zum anderen die Entwicklung neuer Produkte und Services voranzutreiben. Denn anstelle selbst neue Produkte und Services zu entwickeln, nutzt eine Plattform das Potenzial des Ökosystems, um auf sich ständig ändernde Marktanforderungen zu reagieren. Der Fall von Apple zeigt den Paradigmenwechsel von einer produktzentrierten hin zu einer plattformzentrierten Strategie. Das Unternehmen nutzt dabei technische Geräte wie das Macbook oder das iPhone, um Kunden und Partner Teil eines Ökosystems wie iTunes oder dem App Store werden zu lassen.
-Auf diesen digitalen Marktplätzen können dann Musikproduzenten ihre neuesten Songs oder Entwickler neue Applikationen vermarkten. Anstelle der klassischen Wertschöpfung können Kunden und Partner selbsterstellte Applikationen und Services anbieten, wobei
-Apple die Rolle des Intermediärs übernimmt, der Angebot und Nachfrage koordiniert. Die ausgelagerte Wertschöpfung forciert Netzwerkeffekte zwischen Anbietern und Kunden, bei denen auf der einen Seite Nutzer von zusätzlichen Applikationen und Songs und
-auf der anderen Seite Drittanbieter wie Künstler und Entwickler von weiteren Nutzern durch eine Vergrößerung des Ökosystems profitieren. Während sich im Endverbrauchermarkt (B2C) bereits Marktführer wie Uber, Airbnb, der App Store oder Play Store etabliert
-haben, steht die Entwicklung im Geschäftskundenbereich (B2B) erst am Anfang. Eine neu aufkommende Gruppe, die sich das Konzept von Plattformen zunutze macht, wird unter dem Begriff Industrie 4.0 zusammengefasst. Unter dem Begriff wird die intelligente Vernetzung von Produkten und Prozessen innerhalb der industriellen Wertschöpfung verstanden (Bitkom 2014). Neben Themen wie Cloud Computing, Robotics und Big Data wird auch die Vernetzung im sogenannten Internet der Dinge (IoT) immer wichtiger. Die zukünftige Relevanz dieser Technologien kann am Beispiel von IoT mit einem prognostizieren Jahresumsatz von 470 Mrd. US-Dollar für das Jahr 2020 verdeutlicht werden (Bain & Company 2016). Im Internet der Dinge werden Endgeräte wie Sensoren benutzt, um Daten über Produkte oder Produktionsprozesse zu sammeln und neue Erkenntnisse zu gewinnen. Für die Analyse der Daten oder Steuerung anhand definierter Sensorwerte können Unternehmen anschließend auf verschiedene Produkte und Services innerhalb des IoT-Plattform-Ökosystems zurückgreifen. Durch die Veränderung hin zu einer gemeinsamen Wertschöpfung mit dem Ökosystem entstehen immer mehr Märkte, die von einigen wenigen Plattformen dominiert werden.
-
-#### Plattform-Typen
-
-Plattform ist jedoch nicht gleich Plattform. Um das Phänomen von digitalen Plattformen besser zu verstehen, ist es sinnvoll, diese in vier spezifische Gruppen einzuteilen (Evans und Gawer 2016). Man unterscheidet zwischen Transaktionsplattformen, Innovationsplattformen, Integrationsplattformen und Investmentplattformen (vgl. Abb. 12.1). Vertreter von Transaktionsplattformen sind beispielsweise Airbnb, Netflix, eBay oder PayPal. Hierbei übernimmt die Plattform die Rolle eines Vermittlers, welcher Angebot
-und Nachfrage aufeinander abstimmt. Leistungen können Produkte von Verkäufern, Mobilitätsdienstleistungen, Apartments, Zahlungen oder Videos sein.
-
-Innovationsplattformen stellen eine Technologie in Form von Produkten oder Dienstleistungen zur Verfügung, welche als Basis für zukünftige Innovation dient. Unternehmen, die eine Innovationsplattform betreiben, sind beispielsweise Microsoft mit dem Betriebssystem Windows, SAP mit dem Enterprise Ressource Planning (ERP) System oder Salesforce als Customer-Relationship-Management(CRM)-Plattform. Dritte Parteien nutzen die Plattform, um darauf aufbauend neue Services und Produkte zu entwickeln. So
-können bestehende Prozesse in einem ERP-System an die individuellen Bedürfnisse in Unternehmen angepasst werden. Wichtig ist, dass die so entstandenen Individuallösungen nicht für alle anderen Kunden des ERP-Systems zur Verfügung stehen, sondern speziell
-auf den Kontext eines Unternehmens maßgeschneidert sind.
-
-Die Integrationsplattform kombiniert die Eigenschaften einer Transaktions- und einer Innovationsplattform. Vertreter dieser Kategorie umfassen Unternehmen wie Apple oder Google, die passende Plattformen wie App Stores und ein großes Ökosystem an Entwicklern mitbringen. Neu entwickelte Applikationen werden direkt im Ökosystem für eine Vielzahl an Nutzern zur Verfügung gestellt. Die Integrationsplattform verbindet also Aspekte der Transaktions- und Innovationsplattform.
-
-Die letzte Kategorie wird durch Investmentplattformen repräsentiert. Diese Unternehmen bauen auf einer Plattform-Portfolio-Strategie auf und agieren als Holding, Investor oder beides. Beispiele sind Softbank, Priceline oder Rocket Internet. Diese Unternehmen sind zwar keine Plattform per se, agieren aber als Anteilseigner wie im Falle von Priceline,
-welche Booking.com oder OpenTable im Portfolio haben.
-
-![Plattformarten](bilder/kap_03_plattformtypen.png)
-
-Zusammenfassend zeigen die vier Plattform-Kategorien unterschiedliche Facetten. Laut einer Studie aus dem Jahr 2015 (Evans und Gawer 2016) gibt es 176 Plattformunternehmen, welche insgesamt mit 4,3 Billionen US-Dollar bewertet sind. Den größten Anteil haben mit knapp 50 % sogenannte Integrationsplattformen wie Apple, Google, Amazon, Facebook oder Alibaba. Da diese Form von Plattform sowohl die Transaktions- als auch die Innovationsperspektive kombiniert, stellt sie einen idealen Fall dar, um das Konzept und den Erfolg von Plattformen näher zu beschreiben."
-
-*Quelle: Hein, A., Böhm, M., Krcmar, H. (2019). Digitale Plattformen. In: Dahm, M., Thode, S. (eds) Strategie und Transformation im digitalen Zeitalter. FOM-Edition. Springer Gabler, Wiesbaden. [https://doi.org/10.1007/978-3-658-22032-7_12](https://doi.org/10.1007/978-3-658-22032-7_12)*
-
-
-
-### Arbeitsauftrag A|3.3: Optimierung des Prozesses der Content Creation
-
-1. Sie haben sich zuvor mit dem Prozessablauf für das Erstellen des TikTok Contents auseinandergesetzt. Dabei spielten die Rahmenbedingungen bei der Plattform selbst keine Rolle. Informieren Sie sich über die Nutzerbedingungen bei TikTok (s. Auszug im Kurs) und schätzen Sie diese hinsichtlich der Risiken bei der Nutzung der Plattform für Fitness 365 ein.
-2. Bei der Erstellung der Videoclips gibt es Optimierungsbedarf. Wie könnte ein idealer Workflow aussehen, den eine Software umsetzen müsste? Erstellen Sie ein neues BPMN als Vorschlag.
-
-
-
-### Informationsmaterial M|3.7: Nutzungsbedingungen TikTok (Auszug)
-
-Sie finden einen Auszug sowie eine erste Einschätzung unter folgendem Link: [https://www.thomashutter.com/tiktok-kommerzielle-nutzung-durch-unternehmen-was-muss-beachtet-werden/](https://www.thomashutter.com/tiktok-kommerzielle-nutzung-durch-unternehmen-was-muss-beachtet-werden/).
-
-
-
-### Arbeitsauftrag A|3.4: Eigene Plattform planen
-
-1. Welche bestehenden Softwareprodukte (Content-Management-Systeme) können für die Realisierung einer eigenen Plattform herangezogen werden? Verschaffen Sie sich mit dem Informationsmaterial (M|3.8: Häufig genutzte Content-Management-Systeme) einen Überblick zu etablierten und aufsteigenden Systemen.
-2. Welche Webtechnologien werden bei einem Wordpress verwendet (M|3.9: Webtechnologien von Content-Management-Systemen)?
-3. Was unterscheidet ein Content-Management-System von einem Customer-Relationship-Management-System (M|3.10: Customer-Relationship-Management-Systeme)?
-4. Welche Datenschutzrechte müssen beachtet werden, wenn die Fitness 365 GmbH zukünftig seine Kund:innen digital verwalten und mit Inhalten versorgen möchte?
-5. Welche Datenschutzrechte müssen beachtet werden, wenn die Fitness 365 GmbH zukünftig seine Kund:innen digital verwalten und mit Inhalten versorgen möchte?
-6. Was ist zu beachten, wenn diese Daten ungewollt im Internet "auftauchen".
-7. Welche Pflichten ergeben sich für Fitness 365 hinsichtlich technisch-organisatorischer-Maßnahmen?
-8. Welche Pflichten ergeben sich hinsichtlich der Schutzziele von Daten? Beschreiben Sie jeweils zwei Beispiele.
-
-
-### Informationsmaterial M|3.8: Häufig genutzte Content-Management-Systeme
-
-Informieren Sie sich auf der Webseite [https://www.experte.de/homepage/cms-vergleich](https://www.experte.de/homepage/cms-vergleich).
-
-### Informationsmaterial M|3.9: Webtechnologien von Content-Management-Systemen
-
-"Bei WordPress handelt es sich um ein dynamisches Publishing-System (Sie können Inhalte direkt über die Internet-Benutzeroberfläche erstellen und ändern), das auf PHP und MySQL basiert. Um mit WordPress Websites zu erzeugen, benötigen Sie keine Programmierkenntnisse. Sie können alle für WordPress erforderlichen Einstellungen und Anpassungen über ein benutzerfreundliches WebInterface (Dashboard genannt) vornehmen. Über das Dashboard können Sie auch sämtliche Inhalte erstellen. Die Inhalte werden in der auf Ihrem Webserver installierten MySQL-Datenbank gespeichert.
-
-Haben Sie Kenntnisse in PHP, JavaScript, HTML und/oder CSS, können Sie zusätzliche Anpassungen an Ihrer WordPress-Website vornehmen, die über die Möglichkeiten des Dashboards hinausgehen. Sie können beispielsweise per CSS das Aussehen Ihrer WordPress-Website ganz individuell anpassen."
-
-*Quelle: Kommer, I. (2019). Wordpress 5.7 Grundlagen. HERDT Verlag, Bodenheim.*
-
-### Informationsmaterial M|3.10: Customer-Relationship-Management-Systeme
-
-Informieren Sie sich auf der Webseite [https://blog.hubspot.de/sales/customer-relationship-management](https://blog.hubspot.de/sales/customer-relationship-management).
+[Download des Bewertungsrasters](material/03_Bewertungsraster_Abgabe_2.xlsx)
 
 {%
    include-markdown "inhalte/lizenzhinweis.md"
