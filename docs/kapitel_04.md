@@ -368,9 +368,9 @@ Für die dritte Phase des Wettbewerbs haben Sie sich mit digitalen Geschäftsmod
 
 Wie Sie die Arbeit innerhalb der Gruppe aufteilen, kann von Ihnen entschieden werden. Wichtig ist, dass alle Gruppenmitglieder am Ende ...
 
-    ... jede Analyse auch selbst durchführen können,
-    ... über die Ergebnisse im Bilde sind,
-    ... das Gesamtergebnis der Gruppe vertreten.
+- ... jede Analyse auch selbst durchführen können,
+- ... über die Ergebnisse im Bilde sind,
+- ... das Gesamtergebnis der Gruppe vertreten.
 
 **Aufgabe 1**
 
