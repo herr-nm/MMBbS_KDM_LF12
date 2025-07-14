@@ -57,6 +57,8 @@ Richten Sie sich also durch Nutzung entsprechender Arbeitsumgebungen als Gruppe 
 
 ### M|1.1.0: Überblick zum Schuljahr
 
+[Download der Zeitplanung](material/01_Überblick%20zum%20Schuljahr.pdf)
+
 ## Kompetenz 1.2: Unternehmens- und Brancheninformationen einholen
 
 Zur Erstinformation über das ausgewählte Unternehmen und seine Branche nutzen Sie die verlinkten Podcastfolgen in diesem Abschnitt. Die Informationen können anschließend durch Internetrecherche angereichert werden, sodass ein für die weiteren Tätigkeiten vollständiges Bild entsteht.
