@@ -26,9 +26,9 @@ Im Lernfeld 12 haben die KDM auf das Berufsbild spezialisierte Inhalte.
 
 | Nr. | Lernsituation | Unterrichtsstunden |
 | :--- | :--- | :--- |
-| LS 12.1 | Strategische Analysen für Geschäftsmodelle durchführen | 12 UStd. |
+| LS 12.1 | Strategische Analysen für Geschäftsmodelle durchführen | 15 UStd. |
 | LS 12.2 | Unternehmen mit dem Business Model Canvas darstellen | 9 UStd. |
-| LS 12.3 | Digitale Geschäftsmodelle und Produkte planen | 12 UStd. |
+| LS 12.3 | Digitale Geschäftsmodelle und Produkte planen | 9 UStd. |
 
 ## Bewertungshinweise
 
